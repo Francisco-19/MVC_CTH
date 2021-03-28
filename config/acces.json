@@ -1,0 +1,30 @@
+{
+    "sites":[
+        {
+            "site":"",
+            "access":"public",
+            "rol":""
+        },
+        {
+            "site":"signup",
+            "access":"public",
+            "rol":""
+        },
+        {
+            "site":"exames",
+            "access":"private",
+            "rol":"user"
+        },
+        {
+            "site":"controles",
+            "access":"private",
+            "role":"admin"
+        }
+    ],
+    "default-sites":{
+        "user": "examens",
+        "admin": "admin"
+    }
+        
+    
+}

@@ -1,0 +1,1461 @@
+
+[21-Mar-2021 04:59:13 Europe/Berlin] inicio de la apliccion web
+[21-Mar-2021 05:39:21 Europe/Berlin] inicio de la apliccion web
+[21-Mar-2021 05:39:21 Europe/Berlin] APP:: contruc-> no hay controlador espesificado
+[21-Mar-2021 05:39:21 Europe/Berlin] PHP Warning:  require_once(Controlador/login.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\libs\app.php on line 15
+[21-Mar-2021 05:52:41 Europe/Berlin] inicio de la apliccion web
+[21-Mar-2021 05:52:41 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[21-Mar-2021 05:52:41 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 06:23:51 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 06:23:51 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[22-Mar-2021 06:23:51 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 06:23:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Login::loadModel() in C:\xampp\htdocs\MVC_CTH\libs\app.php:17
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\index.php(22): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\libs\app.php on line 17
+[22-Mar-2021 06:23:58 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 06:23:58 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 06:23:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Login::loadModel() in C:\xampp\htdocs\MVC_CTH\libs\app.php:28
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\index.php(22): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\libs\app.php on line 28
+[22-Mar-2021 06:24:20 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 06:24:25 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 06:24:28 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 06:24:28 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[22-Mar-2021 06:24:28 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 06:24:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Login::loadModel() in C:\xampp\htdocs\MVC_CTH\libs\app.php:17
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\index.php(22): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\libs\app.php on line 17
+[22-Mar-2021 06:28:59 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 06:28:59 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[22-Mar-2021 06:28:59 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 06:28:59 Europe/Berlin] PHP Warning:  require(Vistas/login/index.php.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\libs\view.php on line 12
+[22-Mar-2021 06:29:40 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 06:29:40 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[22-Mar-2021 06:29:40 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 06:29:40 Europe/Berlin] PHP Warning:  require(Vistas/login/index.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\libs\view.php on line 12
+[22-Mar-2021 06:29:41 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 06:29:41 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[22-Mar-2021 06:29:41 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 06:29:41 Europe/Berlin] PHP Warning:  require(Vistas/login/index.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\libs\view.php on line 12
+[22-Mar-2021 06:30:08 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 06:30:08 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[22-Mar-2021 06:30:08 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 06:30:08 Europe/Berlin] PHP Warning:  require(Vistas/login/index.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\libs\view.php on line 12
+[22-Mar-2021 06:32:00 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 06:32:00 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[22-Mar-2021 06:32:00 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 06:35:10 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 06:35:10 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[22-Mar-2021 06:35:10 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 06:35:10 Europe/Berlin] login::render-inicio de login
+[22-Mar-2021 07:02:10 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:02:11 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[22-Mar-2021 07:02:11 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 07:02:11 Europe/Berlin] login::render-inicio de login
+[22-Mar-2021 07:02:15 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:02:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Errores" not found in C:\xampp\htdocs\MVC_CTH\libs\app.php:62
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\index.php(22): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\libs\app.php on line 62
+[22-Mar-2021 07:03:50 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:03:50 Europe/Berlin] Errores::costruct-inicio de login
+[22-Mar-2021 07:04:05 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:04:05 Europe/Berlin] Errores::costruct-inicio de login
+[22-Mar-2021 07:05:49 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:05:49 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[22-Mar-2021 07:05:49 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 07:05:49 Europe/Berlin] login::render-inicio de login
+[22-Mar-2021 07:08:55 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:08:55 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[22-Mar-2021 07:08:55 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 07:08:55 Europe/Berlin] login::render-inicio de login
+[22-Mar-2021 07:10:04 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:10:04 Europe/Berlin] Errores::costruct-inicio de login
+[22-Mar-2021 07:10:10 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:10:10 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:10:50 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:10:50 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:11:10 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:11:10 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:11:31 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:11:31 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:12:06 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:12:06 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:14:16 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:14:16 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:14:19 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:14:19 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[22-Mar-2021 07:14:19 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 07:14:19 Europe/Berlin] login::render-inicio de login
+[22-Mar-2021 07:14:23 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:14:23 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:16:58 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:16:58 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:16:59 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:16:59 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:18:36 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:18:36 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:18:46 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:18:46 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:18:49 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:18:49 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[22-Mar-2021 07:18:49 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 07:18:49 Europe/Berlin] login::render-inicio de login
+[22-Mar-2021 07:19:11 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:19:11 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:19:36 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:19:36 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:21:20 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:21:20 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:21:36 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:21:36 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[22-Mar-2021 07:21:36 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 07:21:36 Europe/Berlin] login::render-> Carga el index de login
+[22-Mar-2021 07:21:51 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:21:51 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[22-Mar-2021 07:21:51 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 07:21:51 Europe/Berlin] login::render-> Carga el index de login
+[22-Mar-2021 07:22:06 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:22:06 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:24:38 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:24:38 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:24:38 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:24:38 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:24:39 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:24:39 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:26:39 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:26:39 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:26:40 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:26:40 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:30:21 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:30:21 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:31:42 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:31:42 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:32:03 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:32:03 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[22-Mar-2021 07:32:03 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 07:32:03 Europe/Berlin] login::render-> Carga el index de login
+[22-Mar-2021 07:32:47 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:32:47 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:36:15 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:36:15 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:36:45 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:36:45 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[22-Mar-2021 07:36:45 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 07:36:45 Europe/Berlin] login::render-> Carga el index de login
+[22-Mar-2021 07:36:57 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:36:57 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:38:40 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:38:40 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:38:45 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:38:45 Europe/Berlin] Errores::costruct-Errpres
+[22-Mar-2021 07:38:48 Europe/Berlin] inicio de la apliccion web
+[22-Mar-2021 07:38:48 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[22-Mar-2021 07:38:48 Europe/Berlin] login::costruct-inicio de login
+[22-Mar-2021 07:38:48 Europe/Berlin] login::render-> Carga el index de login
+[23-Mar-2021 05:34:03 Europe/Berlin] inicio de la apliccion web
+[23-Mar-2021 05:34:03 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[23-Mar-2021 05:34:03 Europe/Berlin] login::costruct-inicio de login
+[23-Mar-2021 05:34:03 Europe/Berlin] login::render-> Carga el index de login
+[23-Mar-2021 05:34:08 Europe/Berlin] inicio de la apliccion web
+[23-Mar-2021 05:34:08 Europe/Berlin] Errores::costruct-Errpres
+[23-Mar-2021 05:34:11 Europe/Berlin] inicio de la apliccion web
+[23-Mar-2021 05:34:11 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[23-Mar-2021 05:34:11 Europe/Berlin] login::costruct-inicio de login
+[23-Mar-2021 05:34:11 Europe/Berlin] login::render-> Carga el index de login
+[25-Mar-2021 02:13:16 Europe/Berlin] inicio de la apliccion web
+[25-Mar-2021 02:13:16 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[25-Mar-2021 02:13:16 Europe/Berlin] login::costruct-inicio de login
+[25-Mar-2021 02:13:16 Europe/Berlin] login::render-> Carga el index de login
+[25-Mar-2021 02:13:23 Europe/Berlin] inicio de la apliccion web
+[25-Mar-2021 02:13:23 Europe/Berlin] Errores::costruct-Errpres
+[25-Mar-2021 02:13:36 Europe/Berlin] inicio de la apliccion web
+[25-Mar-2021 02:13:36 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[25-Mar-2021 02:13:36 Europe/Berlin] login::costruct-inicio de login
+[25-Mar-2021 02:13:36 Europe/Berlin] login::render-> Carga el index de login
+[27-Mar-2021 04:12:31 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 04:12:31 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 04:12:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "SesionController" not found in C:\xampp\htdocs\MVC_CTH\controllers\login.php:2
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\app.php(18): require_once()
+#1 C:\xampp\htdocs\MVC_CTH\index.php(22): App->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\controllers\login.php on line 2
+[27-Mar-2021 04:15:14 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 04:15:14 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 04:15:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "SesionController" not found in C:\xampp\htdocs\MVC_CTH\controllers\login.php:2
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\app.php(18): require_once()
+#1 C:\xampp\htdocs\MVC_CTH\index.php(22): App->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\controllers\login.php on line 2
+[27-Mar-2021 04:15:23 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 04:15:23 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 04:15:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "SesionController" not found in C:\xampp\htdocs\MVC_CTH\controllers\login.php:2
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\app.php(18): require_once()
+#1 C:\xampp\htdocs\MVC_CTH\index.php(22): App->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\controllers\login.php on line 2
+[27-Mar-2021 04:17:35 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 04:17:35 Europe/Berlin] PHP Warning:  require_once(clases/sesion.php.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 2
+[27-Mar-2021 04:17:43 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 04:17:43 Europe/Berlin] PHP Warning:  require_once(clases/sesion.php.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 2
+[27-Mar-2021 04:17:56 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 04:17:56 Europe/Berlin] PHP Warning:  require_once(clases/sesion.php.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 2
+[27-Mar-2021 04:18:29 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 04:18:29 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 04:18:29 Europe/Berlin] PHP Warning:  Undefined array key "site" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 24
+[27-Mar-2021 04:18:29 Europe/Berlin] PHP Warning:  Undefined array key "default-site" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 25
+[27-Mar-2021 04:18:29 Europe/Berlin] SESSIONCONROLLER::validateSesion
+[27-Mar-2021 04:18:29 Europe/Berlin] PHP Warning:  Undefined array key "REQUEST_URL" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 93
+[27-Mar-2021 04:18:29 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 95
+[27-Mar-2021 04:18:30 Europe/Berlin] SESSIONcONTROLES::getCurrentPage->
+[27-Mar-2021 04:18:30 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 97
+[27-Mar-2021 04:18:30 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: sizeof(): Argument #1 ($var) must be of type Countable|array, null given in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:85
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(55): SesionController->isPublic()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(27): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(19): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 85
+[27-Mar-2021 04:24:49 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 04:24:49 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 04:24:49 Europe/Berlin] PHP Warning:  Undefined array key "site" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 24
+[27-Mar-2021 04:24:49 Europe/Berlin] PHP Warning:  Undefined array key "default-site" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 25
+[27-Mar-2021 04:24:49 Europe/Berlin] SESSIONCONROLLER::validateSesion
+[27-Mar-2021 04:24:49 Europe/Berlin] PHP Warning:  Undefined array key "REQUEST_URL" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 93
+[27-Mar-2021 04:24:49 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 95
+[27-Mar-2021 04:24:49 Europe/Berlin] SESSIONcONTROLES::getCurrentPage->
+[27-Mar-2021 04:24:49 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 97
+[27-Mar-2021 04:24:49 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: sizeof(): Argument #1 ($var) must be of type Countable|array, null given in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:85
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(55): SesionController->isPublic()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(27): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(19): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 85
+[27-Mar-2021 04:26:35 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 04:26:35 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 04:26:35 Europe/Berlin] PHP Warning:  Undefined array key "default-sites" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 25
+[27-Mar-2021 04:26:35 Europe/Berlin] SESSIONCONROLLER::validateSesion
+[27-Mar-2021 04:26:35 Europe/Berlin] PHP Warning:  Undefined array key "REQUEST_URL" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 93
+[27-Mar-2021 04:26:35 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 95
+[27-Mar-2021 04:26:35 Europe/Berlin] SESSIONcONTROLES::getCurrentPage->
+[27-Mar-2021 04:26:35 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 97
+[27-Mar-2021 04:26:35 Europe/Berlin] PHP Warning:  Undefined array key "access" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 86
+[27-Mar-2021 04:26:35 Europe/Berlin] login::costruct-inicio de login
+[27-Mar-2021 04:26:35 Europe/Berlin] login::render-> Carga el index de login
+[27-Mar-2021 04:27:19 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 04:27:19 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 04:27:19 Europe/Berlin] PHP Warning:  Undefined array key "default-sites" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 25
+[27-Mar-2021 04:27:19 Europe/Berlin] SESSIONCONROLLER::validateSesion
+[27-Mar-2021 04:27:19 Europe/Berlin] PHP Warning:  Undefined array key "REQUEST_URL" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 93
+[27-Mar-2021 04:27:19 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 95
+[27-Mar-2021 04:27:19 Europe/Berlin] SESSIONcONTROLES::getCurrentPage->
+[27-Mar-2021 04:27:19 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 97
+[27-Mar-2021 04:27:19 Europe/Berlin] PHP Warning:  Undefined array key "access" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 86
+[27-Mar-2021 04:27:19 Europe/Berlin] login::costruct-inicio de login
+[27-Mar-2021 04:27:19 Europe/Berlin] login::render-> Carga el index de login
+[27-Mar-2021 04:47:15 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 04:47:15 Europe/Berlin] Errores::costruct-Errpres
+[27-Mar-2021 04:47:19 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 04:47:19 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 04:47:19 Europe/Berlin] SESSIONCONROLLER::validateSesion
+[27-Mar-2021 04:47:19 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 95
+[27-Mar-2021 04:47:19 Europe/Berlin] SESSIONcONTROLES::getCurrentPage->
+[27-Mar-2021 04:47:19 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 97
+[27-Mar-2021 04:47:19 Europe/Berlin] PHP Warning:  Undefined array key "access" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 86
+[27-Mar-2021 04:47:19 Europe/Berlin] login::costruct-inicio de login
+[27-Mar-2021 04:47:19 Europe/Berlin] login::render-> Carga el index de login
+[27-Mar-2021 04:47:57 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 04:47:57 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 04:47:57 Europe/Berlin] SESSIONCONROLLER::validateSesion
+[27-Mar-2021 04:47:57 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 95
+[27-Mar-2021 04:47:57 Europe/Berlin] SESSIONcONTROLES::getCurrentPage->
+[27-Mar-2021 04:47:57 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 97
+[27-Mar-2021 04:47:57 Europe/Berlin] PHP Warning:  Undefined array key "access" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 86
+[27-Mar-2021 04:47:57 Europe/Berlin] login::costruct-inicio de login
+[27-Mar-2021 04:47:57 Europe/Berlin] login::render-> Carga el index de login
+[27-Mar-2021 04:54:38 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 04:54:38 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 04:54:38 Europe/Berlin] SESSIONCONROLLER::validateSesion
+[27-Mar-2021 04:54:38 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 95
+[27-Mar-2021 04:54:38 Europe/Berlin] SESSIONcONTROLES::getCurrentPage->
+[27-Mar-2021 04:54:38 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 97
+[27-Mar-2021 04:54:38 Europe/Berlin] PHP Warning:  Undefined array key "access" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 86
+[27-Mar-2021 04:54:38 Europe/Berlin] login::costruct-inicio de login
+[27-Mar-2021 04:54:38 Europe/Berlin] login::render-> Carga el index de login
+[27-Mar-2021 04:54:44 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 04:54:44 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 04:54:44 Europe/Berlin] SESSIONCONROLLER::validateSesion
+[27-Mar-2021 04:54:44 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 95
+[27-Mar-2021 04:54:44 Europe/Berlin] SESSIONcONTROLES::getCurrentPage->
+[27-Mar-2021 04:54:44 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 97
+[27-Mar-2021 04:54:44 Europe/Berlin] PHP Warning:  Undefined array key "access" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 86
+[27-Mar-2021 04:54:44 Europe/Berlin] login::costruct-inicio de login
+[27-Mar-2021 04:54:44 Europe/Berlin] login::render-> Carga el index de login
+[27-Mar-2021 04:55:20 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 04:55:20 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 04:55:20 Europe/Berlin] SESSIONCONROLLER::validateSesion
+[27-Mar-2021 04:55:20 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 95
+[27-Mar-2021 04:55:20 Europe/Berlin] SESSIONcONTROLES::getCurrentPage->
+[27-Mar-2021 04:55:20 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 97
+[27-Mar-2021 04:55:20 Europe/Berlin] PHP Warning:  Undefined array key "access" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 86
+[27-Mar-2021 04:55:20 Europe/Berlin] login::costruct-inicio de login
+[27-Mar-2021 04:55:20 Europe/Berlin] login::render-> Carga el index de login
+[27-Mar-2021 04:58:03 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 04:58:03 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 04:58:03 Europe/Berlin] SESSIONCONROLLER::validateSesion
+[27-Mar-2021 04:58:03 Europe/Berlin] 
+[27-Mar-2021 04:58:03 Europe/Berlin] SESSIONcONTROLES::getCurrentPage->
+[27-Mar-2021 04:58:03 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 97
+[27-Mar-2021 04:58:03 Europe/Berlin] PHP Warning:  Undefined array key "access" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 86
+[27-Mar-2021 04:58:03 Europe/Berlin] login::costruct-inicio de login
+[27-Mar-2021 04:58:03 Europe/Berlin] login::render-> Carga el index de login
+[27-Mar-2021 05:18:43 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 05:18:43 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 05:18:43 Europe/Berlin] SESSIONCONROLLER::validateSesion
+[27-Mar-2021 05:18:43 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 109
+[27-Mar-2021 05:18:43 Europe/Berlin] SESSIONcONTROLES::getCurrentPage->
+[27-Mar-2021 05:18:43 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 111
+[27-Mar-2021 05:18:43 Europe/Berlin] PHP Warning:  Undefined array key "access" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 05:18:43 Europe/Berlin] login::costruct-inicio de login
+[27-Mar-2021 05:18:43 Europe/Berlin] login::render-> Carga el index de login
+[27-Mar-2021 05:20:31 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 05:20:31 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 05:20:31 Europe/Berlin] SESSIONCONROLLER::validateSesion
+[27-Mar-2021 05:20:31 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 109
+[27-Mar-2021 05:20:31 Europe/Berlin] SESSIONcONTROLES::getCurrentPage->
+[27-Mar-2021 05:20:31 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 111
+[27-Mar-2021 05:20:31 Europe/Berlin] PHP Warning:  Undefined array key "access" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 05:20:31 Europe/Berlin] login::costruct-inicio de login
+[27-Mar-2021 05:20:31 Europe/Berlin] login::render-> Carga el index de login
+[27-Mar-2021 05:31:26 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 05:31:26 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 05:31:26 Europe/Berlin] SESSIONCONROLLER::validateSesion
+[27-Mar-2021 05:31:26 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 109
+[27-Mar-2021 05:31:26 Europe/Berlin] SESSIONcONTROLES::getCurrentPage->
+[27-Mar-2021 05:31:26 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 111
+[27-Mar-2021 05:31:26 Europe/Berlin] PHP Warning:  Undefined array key "access" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 05:31:26 Europe/Berlin] login::costruct-inicio de login
+[27-Mar-2021 05:31:26 Europe/Berlin] login::render-> Carga el index de login
+[27-Mar-2021 05:31:26 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 05:31:26 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 05:31:26 Europe/Berlin] SESSIONCONROLLER::validateSesion
+[27-Mar-2021 05:31:26 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 109
+[27-Mar-2021 05:31:26 Europe/Berlin] SESSIONcONTROLES::getCurrentPage->
+[27-Mar-2021 05:31:26 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 111
+[27-Mar-2021 05:31:26 Europe/Berlin] PHP Warning:  Undefined array key "access" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 05:31:27 Europe/Berlin] login::costruct-inicio de login
+[27-Mar-2021 05:31:27 Europe/Berlin] login::render-> Carga el index de login
+[27-Mar-2021 05:45:55 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 05:45:55 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 05:45:55 Europe/Berlin] SESSIONCONROLLER::validateSesion
+[27-Mar-2021 05:45:55 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 109
+[27-Mar-2021 05:45:55 Europe/Berlin] SESSIONcONTROLES::getCurrentPage->
+[27-Mar-2021 05:45:55 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 111
+[27-Mar-2021 05:45:55 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: sizeof(): Argument #1 ($var) must be of type Countable|array, null given in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:99
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(69): SesionController->isPublic()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(41): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 99
+[27-Mar-2021 06:48:25 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 06:48:25 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 06:48:25 Europe/Berlin] PHP Warning:  file_get_contents(config/access.json): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 47
+[27-Mar-2021 06:48:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 39
+[27-Mar-2021 06:48:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 41
+[27-Mar-2021 06:48:25 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 06:48:25 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 06:48:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 06:48:26 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 06:48:26 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 06:48:26 Europe/Berlin] PHP Warning:  file_get_contents(config/access.json): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 47
+[27-Mar-2021 06:48:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 39
+[27-Mar-2021 06:48:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 41
+[27-Mar-2021 06:48:26 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 06:48:26 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 06:48:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 06:48:26 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 06:48:26 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 06:48:26 Europe/Berlin] PHP Warning:  file_get_contents(config/access.json): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 47
+[27-Mar-2021 06:48:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 39
+[27-Mar-2021 06:48:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 41
+[27-Mar-2021 06:48:26 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 06:48:26 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 06:48:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 06:48:44 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 06:48:44 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 06:48:44 Europe/Berlin] PHP Warning:  file_get_contents(config/access.json): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 47
+[27-Mar-2021 06:48:44 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 39
+[27-Mar-2021 06:48:44 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 41
+[27-Mar-2021 06:48:44 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 06:48:44 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 06:48:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 06:48:44 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 06:48:44 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 06:48:44 Europe/Berlin] PHP Warning:  file_get_contents(config/access.json): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 47
+[27-Mar-2021 06:48:44 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 39
+[27-Mar-2021 06:48:44 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 41
+[27-Mar-2021 06:48:44 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 06:48:44 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 06:48:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 06:48:44 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 06:48:44 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 06:48:44 Europe/Berlin] PHP Warning:  file_get_contents(config/access.json): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 47
+[27-Mar-2021 06:48:44 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 39
+[27-Mar-2021 06:48:44 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 41
+[27-Mar-2021 06:48:44 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 06:48:44 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 06:48:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 06:48:45 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 06:48:45 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Warning:  file_get_contents(config/access.json): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 47
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 39
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 41
+[27-Mar-2021 06:48:45 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 06:48:45 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 06:48:45 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Warning:  file_get_contents(config/access.json): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 47
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 39
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 41
+[27-Mar-2021 06:48:45 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 06:48:45 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 06:48:45 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Warning:  file_get_contents(config/access.json): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 47
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 39
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 41
+[27-Mar-2021 06:48:45 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 06:48:45 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 06:48:45 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Warning:  file_get_contents(config/access.json): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 47
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 39
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 41
+[27-Mar-2021 06:48:45 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 06:48:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 06:48:45 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 06:48:45 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 06:48:46 Europe/Berlin] PHP Warning:  file_get_contents(config/access.json): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 47
+[27-Mar-2021 06:48:46 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 39
+[27-Mar-2021 06:48:46 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 41
+[27-Mar-2021 06:48:46 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 06:48:46 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 06:48:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 06:48:49 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 06:48:49 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 06:48:49 Europe/Berlin] PHP Warning:  file_get_contents(config/access.json): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 47
+[27-Mar-2021 06:48:49 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 39
+[27-Mar-2021 06:48:49 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 41
+[27-Mar-2021 06:48:49 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 06:48:49 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 06:48:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 06:49:25 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 06:49:25 Europe/Berlin] Errores::costruct-Errpres
+[27-Mar-2021 06:49:29 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 06:49:29 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 06:49:29 Europe/Berlin] PHP Warning:  file_get_contents(config/access.json): Failed to open stream: No such file or directory in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 47
+[27-Mar-2021 06:49:29 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 39
+[27-Mar-2021 06:49:29 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 41
+[27-Mar-2021 06:49:29 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 06:49:29 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 06:49:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 07:28:15 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 07:28:15 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 07:28:15 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 07:28:15 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 07:28:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 07:28:16 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 07:28:16 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 07:28:16 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 07:28:16 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 07:28:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 07:28:16 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 07:28:16 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 07:28:16 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 07:28:16 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 07:28:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 07:31:26 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 07:31:26 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 07:31:26 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 07:31:26 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 07:31:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 07:33:30 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 07:33:30 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 07:33:30 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 07:33:30 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 07:33:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 07:33:31 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 07:33:31 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 07:33:31 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 07:33:31 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 07:33:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 07:33:53 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 07:33:53 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 07:33:53 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 07:33:53 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 07:33:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 07:33:54 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 07:33:54 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 07:33:54 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 07:33:54 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 07:33:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 07:39:57 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 07:39:57 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 07:39:57 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 07:39:57 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 07:39:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 07:41:08 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 07:41:08 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 07:41:08 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 07:41:08 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 07:41:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 07:41:08 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 07:41:08 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 07:41:08 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 07:41:08 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 07:41:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 07:41:16 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 07:41:16 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 07:41:16 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 07:41:16 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 07:41:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 07:44:52 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 07:44:52 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 07:44:52 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 07:44:52 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 07:44:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 07:46:55 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 07:46:55 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 07:46:55 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 07:46:55 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 07:46:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 07:48:40 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 07:48:40 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 07:48:40 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 07:48:40 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 07:48:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 07:55:37 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 07:55:37 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 07:55:37 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 07:55:37 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 07:55:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 07:59:19 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 07:59:19 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 07:59:19 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 07:59:19 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 07:59:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 07:59:20 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 07:59:20 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 07:59:20 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 07:59:20 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 07:59:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:05:04 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:05:04 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:05:04 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:05:04 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:05:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:08:15 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:08:15 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:08:15 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:08:15 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:08:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:12:24 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:12:24 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:12:24 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:12:24 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:12:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:12:59 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:12:59 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:12:59 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:12:59 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:12:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:13:45 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:13:45 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:13:45 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:13:45 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:13:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:13:46 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:13:46 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:13:46 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:13:46 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:13:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:13:46 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:13:46 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:13:46 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:13:46 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:13:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:14:01 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:14:01 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:14:01 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:14:01 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:14:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:14:01 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:14:01 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:14:01 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:14:01 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:14:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:14:02 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:14:02 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:14:02 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:14:02 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:14:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:15:43 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:15:43 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:15:43 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:15:43 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:15:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:16:31 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:16:31 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:16:31 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:16:31 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:16:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:17:44 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:17:44 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:17:44 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:17:44 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:17:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:17:49 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:17:49 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:17:49 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:17:49 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:17:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:20:41 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:20:41 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:20:41 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:20:41 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:20:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:21:51 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:21:51 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:21:51 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:21:51 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:21:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:24:00 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:24:00 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:24:00 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:24:00 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:24:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:24:00 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:24:00 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:24:00 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:24:00 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:24:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:24:00 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:24:00 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:24:00 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:24:00 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:24:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:24:01 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:24:01 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:24:01 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:24:01 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:24:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:24:01 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:24:01 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:24:01 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:24:01 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:24:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:24:01 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:24:01 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:24:01 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:24:01 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:24:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:24:01 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:24:01 Europe/Berlin] APP:: contruct-> no hay controlador espesificado
+[27-Mar-2021 08:24:01 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:24:01 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:24:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(20): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:25:17 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:25:17 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:25:17 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:25:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(23): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:25:17 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:25:17 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:25:17 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:25:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(23): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:25:17 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:25:17 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:25:17 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:25:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(23): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:25:18 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:25:18 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:25:18 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:25:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(23): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:25:18 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:25:18 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:25:18 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:25:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(23): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:25:18 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:25:18 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:25:18 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:25:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(23): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:32:23 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:32:23 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:32:23 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:32:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(23): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:34:35 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:34:35 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:34:35 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:34:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "userModel" not found in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php:100
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#3 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\libs\app.php(23): Login->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\index.php(28): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 100
+[27-Mar-2021 08:36:04 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:36:04 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:36:04 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:36:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Database::conect() in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\models\userModel.php(63): Model->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(101): UserModel->get(NULL)
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#3 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#4 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#5 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#6 C:\xampp\htdocs\MVC_CTH\libs\app.php(23): Login->__construct()
+#7 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#8 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\libs\model.php on line 12
+[27-Mar-2021 08:38:31 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:38:31 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:38:31 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:38:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Database::conect() in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\models\userModel.php(63): Model->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(101): UserModel->get(NULL)
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#3 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#4 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#5 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#6 C:\xampp\htdocs\MVC_CTH\libs\app.php(23): Login->__construct()
+#7 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#8 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\libs\model.php on line 12
+[27-Mar-2021 08:39:26 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:39:26 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:39:26 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:39:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Database::conect() in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\models\userModel.php(63): Model->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(101): UserModel->get(NULL)
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#3 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#4 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#5 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#6 C:\xampp\htdocs\MVC_CTH\libs\app.php(23): Login->__construct()
+#7 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#8 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\libs\model.php on line 12
+[27-Mar-2021 08:41:34 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:41:34 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:41:34 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:41:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method UserModel::prepare() in C:\xampp\htdocs\MVC_CTH\models\userModel.php:63
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(101): UserModel->get(NULL)
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#3 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#4 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#5 C:\xampp\htdocs\MVC_CTH\libs\app.php(23): Login->__construct()
+#6 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#7 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\models\userModel.php on line 63
+[27-Mar-2021 08:42:48 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:42:48 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:42:48 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:42:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\models\userModel.php(63): Model->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(101): UserModel->get(NULL)
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#3 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#4 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#5 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#6 C:\xampp\htdocs\MVC_CTH\libs\app.php(23): Login->__construct()
+#7 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#8 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\libs\model.php on line 12
+[27-Mar-2021 08:44:11 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 08:44:11 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 08:44:11 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 08:44:11 Europe/Berlin] sessionController::getUserSessionData(): 
+[27-Mar-2021 08:44:11 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[27-Mar-2021 08:44:11 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[27-Mar-2021 08:44:11 Europe/Berlin] SessionController::validateSession() public page
+[27-Mar-2021 08:44:11 Europe/Berlin] login::costruct-inicio de login
+[27-Mar-2021 16:03:50 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 16:03:50 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 16:03:50 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 16:03:50 Europe/Berlin] sessionController::getUserSessionData(): 
+[27-Mar-2021 16:03:50 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[27-Mar-2021 16:03:50 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[27-Mar-2021 16:03:50 Europe/Berlin] SessionController::validateSession() public page
+[27-Mar-2021 16:03:50 Europe/Berlin] login::costruct-inicio de login
+[27-Mar-2021 16:12:56 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 16:12:56 Europe/Berlin] Errores::costruct-Errpres
+[27-Mar-2021 16:12:59 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 16:12:59 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 16:12:59 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 16:12:59 Europe/Berlin] sessionController::getUserSessionData(): 
+[27-Mar-2021 16:12:59 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[27-Mar-2021 16:12:59 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[27-Mar-2021 16:12:59 Europe/Berlin] SessionController::validateSession() public page
+[27-Mar-2021 16:12:59 Europe/Berlin] login::costruct-inicio de login
+[27-Mar-2021 18:56:18 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 18:56:19 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 18:56:19 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 18:56:19 Europe/Berlin] sessionController::getUserSessionData(): 
+[27-Mar-2021 18:56:19 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[27-Mar-2021 18:56:19 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[27-Mar-2021 18:56:19 Europe/Berlin] SessionController::validateSession() public page
+[27-Mar-2021 18:56:19 Europe/Berlin] login::costruct-inicio de login
+[27-Mar-2021 18:56:19 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 18:56:19 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 18:56:19 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 18:56:20 Europe/Berlin] sessionController::getUserSessionData(): 
+[27-Mar-2021 18:56:20 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[27-Mar-2021 18:56:20 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[27-Mar-2021 18:56:20 Europe/Berlin] SessionController::validateSession() public page
+[27-Mar-2021 18:56:20 Europe/Berlin] login::costruct-inicio de login
+[27-Mar-2021 18:56:26 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 18:56:26 Europe/Berlin] Errores::costruct-Errpres
+[27-Mar-2021 18:56:47 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 18:56:47 Europe/Berlin] Errores::costruct-Errpres
+[27-Mar-2021 18:56:54 Europe/Berlin] inicio de la apliccion web
+[27-Mar-2021 18:56:54 Europe/Berlin] SessionController::validateSession()
+[27-Mar-2021 18:56:54 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[27-Mar-2021 18:56:54 Europe/Berlin] sessionController::getUserSessionData(): 
+[27-Mar-2021 18:56:54 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[27-Mar-2021 18:56:54 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[27-Mar-2021 18:56:54 Europe/Berlin] SessionController::validateSession() public page
+[27-Mar-2021 18:56:54 Europe/Berlin] login::costruct-inicio de login
+[28-Mar-2021 05:42:19 Europe/Berlin] inicio de la apliccion web
+[28-Mar-2021 05:42:20 Europe/Berlin] SessionController::validateSession()
+[28-Mar-2021 05:42:20 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[28-Mar-2021 05:42:20 Europe/Berlin] sessionController::getUserSessionData(): 
+[28-Mar-2021 05:42:20 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[28-Mar-2021 05:42:20 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[28-Mar-2021 05:42:20 Europe/Berlin] SessionController::validateSession() public page
+[28-Mar-2021 05:42:20 Europe/Berlin] login::costruct-inicio de login
+[28-Mar-2021 05:42:22 Europe/Berlin] inicio de la apliccion web
+[28-Mar-2021 05:42:23 Europe/Berlin] SessionController::validateSession()
+[28-Mar-2021 05:42:23 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[28-Mar-2021 05:42:23 Europe/Berlin] sessionController::getUserSessionData(): 
+[28-Mar-2021 05:42:23 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[28-Mar-2021 05:42:23 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[28-Mar-2021 05:42:23 Europe/Berlin] SessionController::validateSession() public page
+[28-Mar-2021 05:42:23 Europe/Berlin] login::costruct-inicio de login
+[28-Mar-2021 06:14:56 Europe/Berlin] inicio de la apliccion web
+[28-Mar-2021 06:14:56 Europe/Berlin] SessionController::validateSession()
+[28-Mar-2021 06:14:56 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[28-Mar-2021 06:14:56 Europe/Berlin] sessionController::getUserSessionData(): 
+[28-Mar-2021 06:14:56 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[28-Mar-2021 06:14:56 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[28-Mar-2021 06:14:56 Europe/Berlin] SessionController::validateSession() public page
+[28-Mar-2021 06:14:56 Europe/Berlin] login::costruct-inicio de login
+[28-Mar-2021 06:14:57 Europe/Berlin] inicio de la apliccion web
+[28-Mar-2021 06:14:57 Europe/Berlin] SessionController::validateSession()
+[28-Mar-2021 06:14:57 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[28-Mar-2021 06:14:57 Europe/Berlin] sessionController::getUserSessionData(): 
+[28-Mar-2021 06:14:57 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[28-Mar-2021 06:14:57 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[28-Mar-2021 06:14:57 Europe/Berlin] SessionController::validateSession() public page
+[28-Mar-2021 06:14:57 Europe/Berlin] login::costruct-inicio de login
+[28-Mar-2021 06:15:50 Europe/Berlin] inicio de la apliccion web
+[28-Mar-2021 06:15:50 Europe/Berlin] Errores::costruct-Errpres
+[28-Mar-2021 06:16:16 Europe/Berlin] inicio de la apliccion web
+[28-Mar-2021 06:16:16 Europe/Berlin] Errores::costruct-Errpres
+[28-Mar-2021 06:16:20 Europe/Berlin] inicio de la apliccion web
+[28-Mar-2021 06:16:20 Europe/Berlin] SessionController::validateSession()
+[28-Mar-2021 06:16:20 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[28-Mar-2021 06:16:20 Europe/Berlin] sessionController::getUserSessionData(): 
+[28-Mar-2021 06:16:20 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[28-Mar-2021 06:16:20 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[28-Mar-2021 06:16:20 Europe/Berlin] SessionController::validateSession() redirect al login
+[28-Mar-2021 06:16:20 Europe/Berlin] login::costruct-inicio de login
+[28-Mar-2021 06:17:16 Europe/Berlin] inicio de la apliccion web
+[28-Mar-2021 06:17:16 Europe/Berlin] SessionController::validateSession()
+[28-Mar-2021 06:17:16 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[28-Mar-2021 06:17:16 Europe/Berlin] sessionController::getUserSessionData(): 
+[28-Mar-2021 06:17:16 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[28-Mar-2021 06:17:16 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[28-Mar-2021 06:17:16 Europe/Berlin] SessionController::validateSession() public page
+[28-Mar-2021 06:17:16 Europe/Berlin] login::costruct-inicio de login
