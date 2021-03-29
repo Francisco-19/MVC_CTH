@@ -1459,3 +1459,48 @@ Stack trace:
 [28-Mar-2021 06:17:16 Europe/Berlin] sessionController::isPublic(): currentURL => 
 [28-Mar-2021 06:17:16 Europe/Berlin] SessionController::validateSession() public page
 [28-Mar-2021 06:17:16 Europe/Berlin] login::costruct-inicio de login
+[28-Mar-2021 22:16:34 Europe/Berlin] inicio de la apliccion web
+[28-Mar-2021 22:16:34 Europe/Berlin] SessionController::validateSession()
+[28-Mar-2021 22:16:34 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[28-Mar-2021 22:16:34 Europe/Berlin] sessionController::getUserSessionData(): 
+[28-Mar-2021 22:16:34 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[28-Mar-2021 22:16:34 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[28-Mar-2021 22:16:34 Europe/Berlin] SessionController::validateSession() public page
+[28-Mar-2021 22:16:34 Europe/Berlin] login::costruct-inicio de login
+[28-Mar-2021 22:16:49 Europe/Berlin] inicio de la apliccion web
+[28-Mar-2021 22:16:49 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "print", expecting "function" or "const" in C:\xampp\htdocs\MVC_CTH\controllers\signup.php on line 7
+[28-Mar-2021 22:16:56 Europe/Berlin] inicio de la apliccion web
+[28-Mar-2021 22:16:56 Europe/Berlin] SessionController::validateSession()
+[28-Mar-2021 22:16:56 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[28-Mar-2021 22:16:56 Europe/Berlin] sessionController::getUserSessionData(): 
+[28-Mar-2021 22:16:56 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[28-Mar-2021 22:16:56 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[28-Mar-2021 22:16:56 Europe/Berlin] SessionController::validateSession() public page
+[28-Mar-2021 22:18:17 Europe/Berlin] inicio de la apliccion web
+[28-Mar-2021 22:18:17 Europe/Berlin] SessionController::validateSession()
+[28-Mar-2021 22:18:17 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[28-Mar-2021 22:18:17 Europe/Berlin] sessionController::getUserSessionData(): 
+[28-Mar-2021 22:18:17 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[28-Mar-2021 22:18:17 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[28-Mar-2021 22:18:17 Europe/Berlin] SessionController::validateSession() public page
+[28-Mar-2021 22:18:37 Europe/Berlin] inicio de la apliccion web
+[28-Mar-2021 22:18:37 Europe/Berlin] SessionController::validateSession()
+[28-Mar-2021 22:18:37 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[28-Mar-2021 22:18:37 Europe/Berlin] sessionController::getUserSessionData(): 
+[28-Mar-2021 22:18:37 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[28-Mar-2021 22:18:37 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[28-Mar-2021 22:18:37 Europe/Berlin] SessionController::validateSession() public page
+[28-Mar-2021 22:18:43 Europe/Berlin] inicio de la apliccion web
+[28-Mar-2021 22:18:43 Europe/Berlin] SessionController::validateSession()
+[28-Mar-2021 22:18:43 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[28-Mar-2021 22:18:43 Europe/Berlin] sessionController::getUserSessionData(): 
+[28-Mar-2021 22:18:43 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[28-Mar-2021 22:18:43 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[28-Mar-2021 22:18:43 Europe/Berlin] SessionController::validateSession() public page
+[28-Mar-2021 22:22:29 Europe/Berlin] inicio de la apliccion web
+[28-Mar-2021 22:22:29 Europe/Berlin] SessionController::validateSession()
+[28-Mar-2021 22:22:29 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[28-Mar-2021 22:22:29 Europe/Berlin] sessionController::getUserSessionData(): 
+[28-Mar-2021 22:22:29 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[28-Mar-2021 22:22:29 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[28-Mar-2021 22:22:29 Europe/Berlin] SessionController::validateSession() public page
