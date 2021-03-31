@@ -1504,3 +1504,1850 @@ Stack trace:
 [28-Mar-2021 22:22:29 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
 [28-Mar-2021 22:22:29 Europe/Berlin] sessionController::isPublic(): currentURL => signup
 [28-Mar-2021 22:22:29 Europe/Berlin] SessionController::validateSession() public page
+[29-Mar-2021 21:53:20 Europe/Berlin] inicio de la apliccion web
+[29-Mar-2021 21:53:20 Europe/Berlin] SessionController::validateSession()
+[29-Mar-2021 21:53:20 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[29-Mar-2021 21:53:20 Europe/Berlin] sessionController::getUserSessionData(): 
+[29-Mar-2021 21:53:20 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[29-Mar-2021 21:53:20 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[29-Mar-2021 21:53:20 Europe/Berlin] SessionController::validateSession() public page
+[29-Mar-2021 21:53:20 Europe/Berlin] login::costruct-inicio de login
+[29-Mar-2021 21:53:21 Europe/Berlin] inicio de la apliccion web
+[29-Mar-2021 21:53:21 Europe/Berlin] SessionController::validateSession()
+[29-Mar-2021 21:53:21 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[29-Mar-2021 21:53:21 Europe/Berlin] sessionController::getUserSessionData(): 
+[29-Mar-2021 21:53:21 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[29-Mar-2021 21:53:21 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[29-Mar-2021 21:53:21 Europe/Berlin] SessionController::validateSession() public page
+[29-Mar-2021 21:53:21 Europe/Berlin] login::costruct-inicio de login
+[29-Mar-2021 21:53:26 Europe/Berlin] inicio de la apliccion web
+[29-Mar-2021 21:53:26 Europe/Berlin] Errores::costruct-Errpres
+[29-Mar-2021 21:53:34 Europe/Berlin] inicio de la apliccion web
+[29-Mar-2021 21:53:34 Europe/Berlin] SessionController::validateSession()
+[29-Mar-2021 21:53:34 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[29-Mar-2021 21:53:34 Europe/Berlin] sessionController::getUserSessionData(): 
+[29-Mar-2021 21:53:34 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[29-Mar-2021 21:53:34 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[29-Mar-2021 21:53:34 Europe/Berlin] SessionController::validateSession() public page
+[29-Mar-2021 21:53:42 Europe/Berlin] inicio de la apliccion web
+[29-Mar-2021 21:53:42 Europe/Berlin] SessionController::validateSession()
+[29-Mar-2021 21:53:42 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[29-Mar-2021 21:53:42 Europe/Berlin] sessionController::getUserSessionData(): 
+[29-Mar-2021 21:53:42 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[29-Mar-2021 21:53:42 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[29-Mar-2021 21:53:42 Europe/Berlin] SessionController::validateSession() public page
+[29-Mar-2021 22:38:25 Europe/Berlin] inicio de la apliccion web
+[29-Mar-2021 22:38:25 Europe/Berlin] SessionController::validateSession()
+[29-Mar-2021 22:38:25 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[29-Mar-2021 22:38:25 Europe/Berlin] sessionController::getUserSessionData(): 
+[29-Mar-2021 22:38:25 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[29-Mar-2021 22:38:25 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[29-Mar-2021 22:38:25 Europe/Berlin] SessionController::validateSession() public page
+[29-Mar-2021 22:38:40 Europe/Berlin] inicio de la apliccion web
+[29-Mar-2021 22:38:40 Europe/Berlin] SessionController::validateSession()
+[29-Mar-2021 22:38:40 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[29-Mar-2021 22:38:40 Europe/Berlin] sessionController::getUserSessionData(): 
+[29-Mar-2021 22:38:40 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[29-Mar-2021 22:38:40 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[29-Mar-2021 22:38:40 Europe/Berlin] SessionController::validateSession() public page
+[29-Mar-2021 22:38:53 Europe/Berlin] inicio de la apliccion web
+[29-Mar-2021 22:38:53 Europe/Berlin] SessionController::validateSession()
+[29-Mar-2021 22:38:53 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[29-Mar-2021 22:38:53 Europe/Berlin] sessionController::getUserSessionData(): 
+[29-Mar-2021 22:38:53 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[29-Mar-2021 22:38:53 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[29-Mar-2021 22:38:53 Europe/Berlin] SessionController::validateSession() public page
+[29-Mar-2021 22:40:03 Europe/Berlin] inicio de la apliccion web
+[29-Mar-2021 22:40:03 Europe/Berlin] SessionController::validateSession()
+[29-Mar-2021 22:40:03 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[29-Mar-2021 22:40:03 Europe/Berlin] sessionController::getUserSessionData(): 
+[29-Mar-2021 22:40:03 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[29-Mar-2021 22:40:03 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[29-Mar-2021 22:40:03 Europe/Berlin] SessionController::validateSession() public page
+[29-Mar-2021 22:41:47 Europe/Berlin] inicio de la apliccion web
+[29-Mar-2021 22:41:47 Europe/Berlin] SessionController::validateSession()
+[29-Mar-2021 22:41:47 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[29-Mar-2021 22:41:47 Europe/Berlin] sessionController::getUserSessionData(): 
+[29-Mar-2021 22:41:47 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[29-Mar-2021 22:41:47 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[29-Mar-2021 22:41:47 Europe/Berlin] SessionController::validateSession() public page
+[29-Mar-2021 22:44:47 Europe/Berlin] inicio de la apliccion web
+[29-Mar-2021 22:44:47 Europe/Berlin] SessionController::validateSession()
+[29-Mar-2021 22:44:47 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 18
+[29-Mar-2021 22:44:47 Europe/Berlin] sessionController::getUserSessionData(): 
+[29-Mar-2021 22:44:47 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[29-Mar-2021 22:44:47 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[29-Mar-2021 22:44:47 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 00:30:27 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 00:30:27 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 00:30:27 Europe/Berlin] PHP Warning:  Undefined array key "userCorre" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 00:30:27 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 00:30:27 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 00:30:27 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 00:30:27 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 00:34:19 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 00:34:19 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 00:34:19 Europe/Berlin] PHP Warning:  Undefined array key "userCorre" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 00:34:19 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 00:34:19 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 00:34:19 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 00:34:19 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 00:34:28 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 00:34:28 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 00:34:28 Europe/Berlin] PHP Warning:  Undefined array key "userCorre" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 00:34:28 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 00:34:28 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 00:34:28 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 00:34:28 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 00:35:00 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 00:35:00 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 00:35:00 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 00:35:00 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 00:35:00 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 00:35:00 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 00:35:00 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 01:53:41 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 01:53:41 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 01:53:41 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 01:53:41 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 01:53:41 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 01:53:41 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 01:53:41 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 01:54:09 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 01:54:09 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 01:54:09 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 01:54:09 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 01:54:09 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 01:54:09 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 01:54:09 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 01:55:52 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 01:55:52 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 01:55:52 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 01:55:52 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 01:55:52 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[30-Mar-2021 01:55:52 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[30-Mar-2021 01:55:52 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 01:55:52 Europe/Berlin] login::costruct-inicio de login
+[30-Mar-2021 01:56:02 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 01:56:02 Europe/Berlin] Errores::costruct-Errpres
+[30-Mar-2021 01:56:12 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 01:56:12 Europe/Berlin] Errores::costruct-Errpres
+[30-Mar-2021 01:56:20 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 01:56:20 Europe/Berlin] Errores::costruct-Errpres
+[30-Mar-2021 01:56:29 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 01:56:29 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 01:56:29 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 01:56:29 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 01:56:29 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 01:56:29 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 01:56:29 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 01:56:44 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 01:56:44 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 01:56:44 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 01:56:44 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 01:56:44 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 01:56:44 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 01:56:44 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:00:49 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:00:49 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:00:49 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:00:49 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:00:49 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:00:49 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:00:49 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:01:03 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:01:03 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:01:03 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:01:03 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:01:03 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:01:03 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:01:03 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:01:23 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:01:23 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:01:23 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:01:23 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:01:23 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:01:23 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:01:23 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:01:29 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:01:29 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:01:29 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:01:29 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:01:29 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:01:29 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:01:29 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:02:27 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:02:27 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:02:27 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:02:28 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:02:28 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:02:28 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:02:28 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:02:31 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:02:31 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:02:31 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:02:31 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:02:31 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:02:31 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:02:31 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:02:40 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:02:40 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:02:40 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:02:41 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:02:41 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[30-Mar-2021 02:02:41 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[30-Mar-2021 02:02:41 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:02:41 Europe/Berlin] login::costruct-inicio de login
+[30-Mar-2021 02:03:25 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:03:25 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:03:25 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:03:25 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:03:25 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:03:25 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:03:25 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:03:58 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:03:59 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:03:59 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:03:59 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:03:59 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:03:59 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:03:59 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:04:20 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:04:20 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:04:20 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:04:20 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:04:20 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:04:20 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:04:20 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:04:57 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:04:57 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:04:57 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:04:57 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:04:57 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:04:57 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:04:57 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:05:05 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:05:05 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:05:05 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:05:05 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:05:05 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:05:05 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:05:05 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:05:51 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:05:51 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:05:51 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:05:51 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:05:51 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:05:51 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:05:51 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:06:14 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:06:14 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:06:14 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:06:15 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:06:15 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:06:15 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:06:15 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:06:39 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:06:39 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:06:39 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:06:39 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:06:39 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:06:39 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:06:39 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:07:36 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:07:36 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:07:36 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:07:36 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:07:36 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[30-Mar-2021 02:07:36 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[30-Mar-2021 02:07:36 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:07:36 Europe/Berlin] login::costruct-inicio de login
+[30-Mar-2021 02:08:10 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:08:10 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:08:10 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:08:10 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:08:10 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:08:10 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:08:10 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:08:12 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:08:12 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:08:12 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:08:12 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:08:12 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser?correo=&contrase%C3%B1a=, url => signup
+[30-Mar-2021 02:08:12 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:08:12 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:08:12 Europe/Berlin] ExistPOST: No existe el parametro correo
+[30-Mar-2021 02:08:12 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:08:12 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:08:12 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:08:12 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:08:12 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 02:08:12 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 02:08:12 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:08:12 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 02:08:24 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:08:24 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:08:24 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:08:24 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:08:24 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 02:08:24 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 02:08:24 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:08:24 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 02:08:25 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:08:25 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:08:25 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:08:25 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:08:25 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:08:25 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:08:25 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:08:27 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:08:27 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:08:27 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:08:27 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:08:27 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 02:08:27 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:08:27 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:08:27 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 02:08:27 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(32): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 02:08:27 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:08:27 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:08:27 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:08:27 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:08:27 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 02:08:27 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 02:08:27 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:08:27 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 02:11:33 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:11:33 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:11:33 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:11:33 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:11:33 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 02:11:33 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 02:11:33 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:11:33 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 02:11:54 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:11:54 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:11:54 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:11:55 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:11:55 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[30-Mar-2021 02:11:55 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[30-Mar-2021 02:11:55 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:11:55 Europe/Berlin] login::costruct-inicio de login
+[30-Mar-2021 02:12:01 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:12:01 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:12:01 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:12:01 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:12:01 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:12:01 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:12:01 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:12:05 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:12:05 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:12:05 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:12:06 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:12:06 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 02:12:06 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:12:06 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:12:06 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 02:12:06 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(32): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 02:12:06 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:12:06 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:12:06 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:12:06 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:12:06 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 02:12:06 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 02:12:06 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:12:06 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 02:12:52 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:12:52 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:12:52 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:12:52 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:12:52 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:12:52 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:12:52 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:36:44 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:36:44 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:36:44 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:36:44 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:36:44 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:36:44 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:36:44 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:36:45 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:36:45 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:36:45 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:36:45 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:36:45 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 02:36:45 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:36:45 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:36:45 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 02:36:45 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(32): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 02:36:45 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:36:45 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:36:45 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:36:46 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:36:46 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 02:36:46 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 02:36:46 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:36:46 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 02:36:47 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:36:47 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:36:47 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:36:48 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:36:48 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:36:48 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:36:48 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:37:11 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:37:11 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:37:11 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:37:11 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:37:11 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 02:37:11 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:37:11 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:37:11 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 02:37:11 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(32): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 02:37:11 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:37:11 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:37:11 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:37:11 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:37:11 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 02:37:11 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 02:37:11 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:37:11 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 02:37:24 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:37:24 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:37:24 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:37:24 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:37:24 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 02:37:24 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 02:37:24 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:37:24 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 02:37:25 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:37:25 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:37:25 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:37:26 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:37:26 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:37:26 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:37:26 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:37:47 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:37:47 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:37:47 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:37:47 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:37:47 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 02:37:47 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:37:47 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:37:47 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 02:37:47 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(32): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 02:37:47 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:37:47 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:37:47 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:37:47 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:37:47 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 02:37:47 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 02:37:47 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:37:47 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 02:40:03 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:40:03 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:40:03 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:40:03 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:40:03 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:40:03 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:40:03 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:40:21 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:40:21 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:40:21 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:40:21 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:40:21 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 02:40:21 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:40:21 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:40:21 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 02:40:21 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(32): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 02:40:21 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:40:22 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:40:22 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:40:22 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:40:22 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 02:40:22 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 02:40:22 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:40:22 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 02:40:28 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:40:28 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:40:28 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:40:28 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:40:28 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:40:28 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:40:28 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:42:49 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:42:49 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:42:49 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:42:49 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:42:49 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 02:42:49 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:42:49 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:42:49 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 02:42:49 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(32): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 02:42:49 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:42:49 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:42:49 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:42:49 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:42:49 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 02:42:49 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 02:42:49 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:42:49 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 02:44:23 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:44:23 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:44:23 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:44:23 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:44:23 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:44:23 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:44:23 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:44:27 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:44:27 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:44:27 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:44:27 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:44:27 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 02:44:27 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:44:27 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:44:27 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 02:44:27 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(32): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 02:44:27 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:44:27 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:44:27 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:44:27 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:44:27 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 02:44:27 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 02:44:27 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:44:27 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 02:44:29 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:44:29 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:44:29 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:44:29 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:44:29 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:44:29 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:44:29 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:44:37 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:44:37 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:44:37 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:44:37 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:44:37 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 02:44:37 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:44:37 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:44:37 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 02:44:37 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(32): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 02:44:37 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:44:37 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:44:37 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:44:37 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:44:37 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 02:44:37 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 02:44:37 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:44:37 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 02:44:48 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:44:48 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:44:48 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:44:48 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:44:48 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:44:48 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:44:48 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:52:31 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:52:31 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:52:31 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:52:31 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:52:31 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:52:31 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:52:31 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:52:33 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:52:33 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:52:33 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:52:33 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:52:33 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 02:52:33 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:52:33 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:52:33 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 02:52:33 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(32): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 02:52:33 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:52:33 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:52:33 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:52:33 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:52:33 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 02:52:33 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 02:52:33 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:52:33 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 02:52:36 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:52:36 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:52:36 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:52:36 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:52:36 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:52:36 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:52:36 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:54:00 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:54:00 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:54:00 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:54:00 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:54:00 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:54:00 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:54:00 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:54:02 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:54:02 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:54:02 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:54:02 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:54:02 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser?correo=&contrase%C3%B1a=, url => signup
+[30-Mar-2021 02:54:02 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:54:02 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:54:02 Europe/Berlin] ExistPOST: No existe el parametro correo
+[30-Mar-2021 02:54:02 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:54:02 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:54:02 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:54:02 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:54:02 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 02:54:02 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 02:54:02 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 02:54:02 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 02:54:05 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 02:54:05 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 02:54:05 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 02:54:05 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 02:54:05 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 02:54:05 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 02:54:05 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:10:52 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:10:52 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:10:52 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:10:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "CHARSET" in C:\xampp\htdocs\MVC_CTH\libs\database.php:16
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\database.php(16): constant('CHARSET')
+#1 C:\xampp\htdocs\MVC_CTH\libs\model.php(5): Database->__construct()
+#2 C:\xampp\htdocs\MVC_CTH\models\userModel.php(12): Model->__construct()
+#3 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(100): UserModel->__construct()
+#4 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#5 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#6 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#7 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#8 C:\xampp\htdocs\MVC_CTH\libs\app.php(23): Login->__construct()
+#9 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#10 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\libs\database.php on line 16
+[30-Mar-2021 03:11:01 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:11:01 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:11:01 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:11:01 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:11:01 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[30-Mar-2021 03:11:01 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[30-Mar-2021 03:11:01 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:11:01 Europe/Berlin] login::costruct-inicio de login
+[30-Mar-2021 03:11:32 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:11:32 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:11:32 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:11:33 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:11:33 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 03:11:33 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:11:33 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:11:35 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:11:35 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:11:35 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:11:35 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:11:35 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser?correo=&contrase%C3%B1a=, url => signup
+[30-Mar-2021 03:11:35 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:11:35 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:11:35 Europe/Berlin] ExistPOST: No existe el parametro correo
+[30-Mar-2021 03:11:35 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:11:35 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:11:35 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:11:35 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:11:35 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 03:11:35 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 03:11:35 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:11:35 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 03:11:37 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:11:38 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:11:38 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:11:38 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:11:38 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 03:11:38 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:11:38 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:14:42 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:14:42 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:14:42 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:14:42 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:14:42 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser?correo=&contrase%C3%B1a=, url => signup
+[30-Mar-2021 03:14:42 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:14:42 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:14:42 Europe/Berlin] ExistPOST: No existe el parametro correo
+[30-Mar-2021 03:14:42 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:14:42 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:14:42 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:14:42 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:14:42 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 03:14:42 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 03:14:42 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:14:42 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 03:14:45 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:14:45 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:14:45 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:14:45 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:14:45 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 03:14:45 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:14:45 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:16:31 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:16:31 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:16:31 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:16:31 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:16:31 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 03:16:31 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:16:31 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:16:32 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:16:32 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:16:32 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:16:32 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:16:32 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser?correo=&contrase%C3%B1a=, url => signup
+[30-Mar-2021 03:16:32 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:16:32 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:16:32 Europe/Berlin] ExistPOST: No existe el parametro correo
+[30-Mar-2021 03:16:32 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:16:32 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:16:32 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:16:32 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:16:32 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 03:16:32 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 03:16:32 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:16:32 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 03:16:55 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:16:55 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:16:55 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:16:55 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:16:55 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 03:16:55 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 03:16:55 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:16:55 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 03:16:56 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:16:56 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:16:56 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:16:57 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:16:57 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 03:16:57 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:16:57 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:16:58 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:16:58 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:16:58 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:16:58 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:16:58 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser?correo=&contrase%C3%B1a=, url => signup
+[30-Mar-2021 03:16:58 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:16:58 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:16:58 Europe/Berlin] ExistPOST: No existe el parametro correo
+[30-Mar-2021 03:16:58 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:16:58 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:16:58 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:16:58 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:16:59 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0002, url => signup?error=0002
+[30-Mar-2021 03:16:59 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0002
+[30-Mar-2021 03:16:59 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:16:59 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 03:18:25 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:18:25 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:18:25 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:18:25 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:18:25 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 03:18:25 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:18:25 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:18:28 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:18:28 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:18:28 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:18:28 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:18:28 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0002, url => signup?error=0002
+[30-Mar-2021 03:18:28 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0002
+[30-Mar-2021 03:18:28 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:18:28 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 03:18:30 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:18:30 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:18:30 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:18:30 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:18:30 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 03:18:30 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:18:30 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:33:48 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:33:48 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:33:48 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:33:48 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:33:48 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 03:33:48 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:33:48 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:33:50 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:33:50 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:33:50 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:33:50 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:33:50 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser?correo=&contrase%C3%B1a=, url => signup
+[30-Mar-2021 03:33:50 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:33:50 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:33:50 Europe/Berlin] ExistPOST: No existe el parametro correo
+[30-Mar-2021 03:33:50 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:33:50 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:33:50 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:33:50 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:33:50 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0002, url => signup?error=0002
+[30-Mar-2021 03:33:50 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0002
+[30-Mar-2021 03:33:51 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:33:51 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 03:42:19 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:42:19 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:42:19 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:42:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\models\userModel.php(60): Model->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(101): UserModel->get(NULL)
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#3 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#4 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#5 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#6 C:\xampp\htdocs\MVC_CTH\libs\app.php(23): Login->__construct()
+#7 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#8 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\libs\model.php on line 12
+[30-Mar-2021 03:42:58 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:42:58 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:42:58 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:42:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\models\userModel.php(60): Model->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(101): UserModel->get(NULL)
+#2 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(54): SesionController->getUserSessionData()
+#3 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(44): SesionController->validateSession()
+#4 C:\xampp\htdocs\MVC_CTH\clases\sesionController.php(16): SesionController->init()
+#5 C:\xampp\htdocs\MVC_CTH\controllers\login.php(5): SesionController->__construct()
+#6 C:\xampp\htdocs\MVC_CTH\libs\app.php(23): Login->__construct()
+#7 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#8 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\libs\model.php on line 12
+[30-Mar-2021 03:43:03 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:43:03 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:43:03 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:43:03 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:43:03 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[30-Mar-2021 03:43:03 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[30-Mar-2021 03:43:03 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:43:03 Europe/Berlin] login::costruct-inicio de login
+[30-Mar-2021 03:46:18 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:46:18 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:46:18 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:46:18 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:46:18 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 03:46:18 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:46:18 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:48:05 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:48:05 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:48:05 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:48:05 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:48:05 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser?correo=&contrase%C3%B1a=, url => signup
+[30-Mar-2021 03:48:05 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:48:05 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:48:05 Europe/Berlin] ExistPOST: No existe el parametro correo
+[30-Mar-2021 03:48:05 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:48:05 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:48:05 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:48:06 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:48:06 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0002, url => signup?error=0002
+[30-Mar-2021 03:48:06 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0002
+[30-Mar-2021 03:48:06 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:48:06 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 03:50:12 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:50:12 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:50:12 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:50:13 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:50:13 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 03:50:13 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:50:13 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:53:38 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:53:38 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:53:38 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:53:38 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:53:38 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 03:53:38 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:53:38 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:53:40 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:53:40 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:53:40 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:53:40 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:53:40 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser?correo=&contrase%C3%B1a=, url => signup
+[30-Mar-2021 03:53:40 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:53:40 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:53:40 Europe/Berlin] ExistPOST: No existe el parametro correo
+[30-Mar-2021 03:53:40 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:53:40 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:53:40 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:53:40 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:53:40 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0002, url => signup?error=0002
+[30-Mar-2021 03:53:40 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0002
+[30-Mar-2021 03:53:40 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:53:40 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 03:53:50 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:53:50 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:53:50 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:53:50 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:53:50 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 03:53:50 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:53:50 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:57:43 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:57:43 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:57:43 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:57:43 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:57:43 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser?correo=&contrase%C3%B1a=, url => signup
+[30-Mar-2021 03:57:43 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:57:43 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:57:43 Europe/Berlin] ExistPOST: No existe el parametro correo
+[30-Mar-2021 03:57:43 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:57:43 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:57:43 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:57:43 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:57:43 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0002, url => signup?error=0002
+[30-Mar-2021 03:57:43 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0002
+[30-Mar-2021 03:57:43 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 03:57:43 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 03:57:47 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 03:57:47 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 03:57:47 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 03:57:47 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 03:57:47 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 03:57:47 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 03:57:47 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:00:13 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:00:13 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:00:13 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:00:13 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:00:13 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 04:00:13 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 04:00:13 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:00:15 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:00:15 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:00:15 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:00:15 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:00:15 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 04:00:15 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 04:00:15 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:00:15 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 04:00:15 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(32): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 04:00:15 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:00:15 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:00:15 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:00:15 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:00:15 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 04:00:15 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 04:00:15 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:00:15 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 04:02:09 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:02:09 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:02:09 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:02:09 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:02:09 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 04:02:09 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 04:02:09 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:02:16 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:02:16 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:02:16 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:02:16 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:02:16 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 04:02:16 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 04:02:16 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:02:16 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 04:02:16 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(32): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 04:02:16 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:02:16 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:02:16 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:02:16 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:02:16 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 04:02:16 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 04:02:16 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:02:16 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 04:02:34 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:02:34 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:02:34 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:02:34 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:02:34 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 04:02:34 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 04:02:34 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:02:36 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:02:36 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:02:36 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:02:36 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:02:36 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 04:02:36 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 04:02:36 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:02:36 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 04:02:36 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(32): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 04:02:36 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:02:36 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:02:36 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:02:36 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:02:36 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 04:02:36 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 04:02:36 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:02:36 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 04:06:40 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:06:40 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:06:40 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:06:40 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:06:40 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 04:06:40 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 04:06:40 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:06:44 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:06:44 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:06:44 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:06:44 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:06:44 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 04:06:44 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 04:06:44 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:06:44 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 04:06:44 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(32): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 04:06:44 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:06:44 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:06:44 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:06:44 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:06:44 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 04:06:44 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 04:06:44 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:06:44 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 04:08:06 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:08:06 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:08:06 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:08:06 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:08:06 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 04:08:06 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 04:08:06 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:08:08 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:08:08 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:08:08 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:08:08 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:08:08 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 04:08:08 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 04:08:08 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:08:08 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 04:08:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant ErrorMessages::ERROR_SIGNUP_NEWUSER_EMPTY in C:\xampp\htdocs\MVC_CTH\controllers\signup.php:23
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#1 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\controllers\signup.php on line 23
+[30-Mar-2021 04:08:13 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:08:13 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:08:13 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:08:13 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:08:13 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 04:08:13 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 04:08:13 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:08:14 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:08:14 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:08:14 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:08:15 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:08:15 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 04:08:15 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 04:08:15 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:08:15 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 04:08:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant ErrorMessages::ERROR_SIGNUP_NEWUSER_EMPTY in C:\xampp\htdocs\MVC_CTH\controllers\signup.php:23
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#1 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\controllers\signup.php on line 23
+[30-Mar-2021 04:08:31 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:08:31 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:08:31 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:08:31 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:08:31 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 04:08:31 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 04:08:31 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:08:31 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 04:08:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant ErrorMessages::ERROR_SIGNUP_NEWUSER_EMPTY in C:\xampp\htdocs\MVC_CTH\controllers\signup.php:23
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#1 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\controllers\signup.php on line 23
+[30-Mar-2021 04:08:32 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:08:32 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:08:32 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:08:32 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:08:32 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 04:08:32 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 04:08:32 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:08:34 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:08:34 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:08:34 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:08:34 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:08:34 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 04:08:34 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 04:08:34 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:08:34 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 04:08:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant ErrorMessages::ERROR_SIGNUP_NEWUSER_EMPTY in C:\xampp\htdocs\MVC_CTH\controllers\signup.php:23
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#1 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\MVC_CTH\controllers\signup.php on line 23
+[30-Mar-2021 04:26:32 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:26:32 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:26:32 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:26:32 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:26:32 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/, url => signup
+[30-Mar-2021 04:26:32 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 04:26:32 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:26:37 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:26:37 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:26:37 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:26:37 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:26:37 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 04:26:37 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 04:26:37 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:26:37 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 04:26:37 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:26:37 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:26:37 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:26:38 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:26:38 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?erro=0004, url => signup?erro=0004
+[30-Mar-2021 04:26:38 Europe/Berlin] sessionController::isPublic(): currentURL => signup?erro=0004
+[30-Mar-2021 04:26:38 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:27:29 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:27:29 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:27:29 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:27:29 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:27:29 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 04:27:29 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 04:27:29 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:27:29 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 04:27:29 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(32): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 04:27:29 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 04:27:29 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 04:27:29 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 04:27:29 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 04:27:29 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 04:27:29 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 04:27:29 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 04:27:29 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 06:12:00 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:12:00 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:12:00 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:12:00 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:12:00 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?erro=0004, url => signup?erro=0004
+[30-Mar-2021 06:12:00 Europe/Berlin] sessionController::isPublic(): currentURL => signup?erro=0004
+[30-Mar-2021 06:12:00 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:12:06 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:12:06 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:12:06 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:12:06 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:12:06 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 06:12:06 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 06:12:06 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:12:06 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 06:12:06 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(32): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 06:12:06 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:12:06 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:12:06 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:12:06 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:12:06 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 06:12:06 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 06:12:06 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:12:06 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 06:12:30 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:12:30 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:12:30 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:12:30 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:12:30 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?erro=0004, url => signup?erro=0004
+[30-Mar-2021 06:12:30 Europe/Berlin] sessionController::isPublic(): currentURL => signup?erro=0004
+[30-Mar-2021 06:12:30 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:12:38 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:12:38 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:12:38 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:12:38 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:12:38 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 06:12:38 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 06:12:38 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:12:38 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 06:12:39 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(32): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 06:12:39 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:12:39 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:12:39 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:12:39 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:12:39 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 06:12:39 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 06:12:39 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:12:39 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 06:12:45 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:12:45 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:12:45 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:12:45 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:12:45 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?erro=0004, url => signup?erro=0004
+[30-Mar-2021 06:12:45 Europe/Berlin] sessionController::isPublic(): currentURL => signup?erro=0004
+[30-Mar-2021 06:12:45 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:12:59 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:12:59 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:12:59 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:12:59 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:12:59 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 06:12:59 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 06:12:59 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:12:59 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 06:12:59 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:12:59 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:12:59 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:12:59 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:12:59 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?erro=0004, url => signup?erro=0004
+[30-Mar-2021 06:12:59 Europe/Berlin] sessionController::isPublic(): currentURL => signup?erro=0004
+[30-Mar-2021 06:12:59 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:14:12 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:14:12 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:14:12 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:14:12 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:14:12 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 06:14:12 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 06:14:12 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:14:12 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 06:14:12 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(32): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 06:14:12 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:14:12 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:14:12 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:14:12 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:14:12 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 06:14:12 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 06:14:12 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:14:12 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 06:15:16 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:15:16 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:15:16 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:15:16 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:15:16 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?erro=0004, url => signup?erro=0004
+[30-Mar-2021 06:15:16 Europe/Berlin] sessionController::isPublic(): currentURL => signup?erro=0004
+[30-Mar-2021 06:15:16 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:15:18 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:15:18 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:15:18 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:15:18 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:15:18 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser?correo=pancho%40gmail.com&contrase%C3%B1a=sad, url => signup
+[30-Mar-2021 06:15:18 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 06:15:18 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:15:18 Europe/Berlin] ExistPOST: No existe el parametro correo
+[30-Mar-2021 06:15:18 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:15:18 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:15:18 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:15:18 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:15:18 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0002, url => signup?error=0002
+[30-Mar-2021 06:15:18 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0002
+[30-Mar-2021 06:15:18 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:15:18 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 06:15:26 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:15:26 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:15:26 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:15:26 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:15:26 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?erro=0004, url => signup?erro=0004
+[30-Mar-2021 06:15:26 Europe/Berlin] sessionController::isPublic(): currentURL => signup?erro=0004
+[30-Mar-2021 06:15:26 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:15:28 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:15:28 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:15:28 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:15:28 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:15:28 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser?correo=pancho%40gmail.com&contrase%C3%B1a=sad, url => signup
+[30-Mar-2021 06:15:28 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 06:15:28 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:15:28 Europe/Berlin] ExistPOST: No existe el parametro correo
+[30-Mar-2021 06:15:28 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:15:28 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:15:28 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:15:28 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:15:28 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0002, url => signup?error=0002
+[30-Mar-2021 06:15:28 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0002
+[30-Mar-2021 06:15:29 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:15:29 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 06:15:36 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:15:36 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:15:36 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:15:37 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:15:37 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0002, url => signup?error=0002
+[30-Mar-2021 06:15:37 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0002
+[30-Mar-2021 06:15:37 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:15:37 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 06:15:38 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:15:38 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:15:38 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:15:38 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:15:38 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?erro=0004, url => signup?erro=0004
+[30-Mar-2021 06:15:38 Europe/Berlin] sessionController::isPublic(): currentURL => signup?erro=0004
+[30-Mar-2021 06:15:38 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:15:40 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:15:40 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:15:40 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:15:40 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:15:40 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser?correo=pancho%40gmail.com&contrase%C3%B1a=sad, url => signup
+[30-Mar-2021 06:15:40 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 06:15:40 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:15:40 Europe/Berlin] ExistPOST: No existe el parametro correo
+[30-Mar-2021 06:15:40 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:15:40 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:15:40 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:15:40 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:15:40 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0002, url => signup?error=0002
+[30-Mar-2021 06:15:40 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0002
+[30-Mar-2021 06:15:40 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:15:40 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 06:18:28 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:18:28 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:18:28 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:18:28 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:18:28 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0002, url => signup?error=0002
+[30-Mar-2021 06:18:28 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0002
+[30-Mar-2021 06:18:28 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:18:28 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 06:18:29 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:18:29 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:18:29 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:18:29 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:18:29 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?erro=0004, url => signup?erro=0004
+[30-Mar-2021 06:18:29 Europe/Berlin] sessionController::isPublic(): currentURL => signup?erro=0004
+[30-Mar-2021 06:18:29 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:18:31 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:18:31 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:18:31 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:18:32 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:18:32 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser?correo=pancho%40gmail.com&contrase%C3%B1a=sad, url => signup
+[30-Mar-2021 06:18:32 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 06:18:32 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:18:32 Europe/Berlin] ExistPOST: No existe el parametro correo
+[30-Mar-2021 06:18:32 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:18:32 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:18:32 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:18:32 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:18:32 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0002, url => signup?error=0002
+[30-Mar-2021 06:18:32 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0002
+[30-Mar-2021 06:18:32 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:18:32 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 06:18:53 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:18:53 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:18:53 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:18:53 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:18:53 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?erro=0004, url => signup?erro=0004
+[30-Mar-2021 06:18:53 Europe/Berlin] sessionController::isPublic(): currentURL => signup?erro=0004
+[30-Mar-2021 06:18:53 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:18:55 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:18:55 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:18:55 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:18:55 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:18:55 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 06:18:55 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 06:18:55 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:18:55 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 06:18:55 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':	userCorreo,?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(34): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 06:18:55 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 06:18:55 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 06:18:55 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 06:18:55 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 06:18:55 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 06:18:55 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 06:18:55 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 06:18:55 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 08:14:20 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 08:14:21 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 08:14:21 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 08:14:21 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 08:14:21 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[30-Mar-2021 08:14:21 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[30-Mar-2021 08:14:21 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 08:14:21 Europe/Berlin] login::costruct-inicio de login
+[30-Mar-2021 08:14:29 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 08:14:29 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 08:14:29 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 08:14:29 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 08:14:29 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 08:14:29 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 08:14:29 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 08:14:34 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 08:14:34 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 08:14:34 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 08:14:34 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 08:14:34 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 08:14:34 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 08:14:34 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 08:14:34 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 08:14:34 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(34): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 08:14:34 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 08:14:34 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 08:14:34 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 08:14:34 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 08:14:34 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 08:14:34 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 08:14:34 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 08:14:34 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 08:16:19 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 08:16:19 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 08:16:19 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 08:16:20 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 08:16:20 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 08:16:20 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 08:16:20 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 08:16:24 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 08:16:24 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 08:16:24 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 08:16:24 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 08:16:24 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[30-Mar-2021 08:16:24 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 08:16:24 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 08:16:24 Europe/Berlin] ExistPOST: Existen parámetros
+[30-Mar-2021 08:16:24 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(34): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[30-Mar-2021 08:16:24 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 08:16:24 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 08:16:24 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 08:16:24 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 08:16:24 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 08:16:24 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 08:16:24 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 08:16:24 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 23:48:31 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 23:48:31 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 23:48:31 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 23:48:31 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 23:48:31 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[30-Mar-2021 23:48:31 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[30-Mar-2021 23:48:31 Europe/Berlin] SessionController::validateSession() public page
+[30-Mar-2021 23:48:31 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[30-Mar-2021 23:48:33 Europe/Berlin] inicio de la apliccion web
+[30-Mar-2021 23:48:33 Europe/Berlin] SessionController::validateSession()
+[30-Mar-2021 23:48:33 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[30-Mar-2021 23:48:33 Europe/Berlin] sessionController::getUserSessionData(): 
+[30-Mar-2021 23:48:33 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[30-Mar-2021 23:48:33 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[30-Mar-2021 23:48:33 Europe/Berlin] SessionController::validateSession() public page
+[31-Mar-2021 01:45:13 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:45:13 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:45:13 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:45:13 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:45:13 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:45:13 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:45:13 Europe/Berlin] SessionController::validateSession() public page
+[31-Mar-2021 01:45:13 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:47:06 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:47:06 Europe/Berlin] Errores::costruct-Errpres
+[31-Mar-2021 01:47:12 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:47:12 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:47:12 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:47:12 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:47:12 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[31-Mar-2021 01:47:12 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[31-Mar-2021 01:47:12 Europe/Berlin] SessionController::validateSession() public page
+[31-Mar-2021 01:47:14 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:47:14 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:47:14 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:47:14 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:47:14 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[31-Mar-2021 01:47:14 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[31-Mar-2021 01:47:14 Europe/Berlin] SessionController::validateSession() public page
+[31-Mar-2021 01:47:14 Europe/Berlin] ExistPOST: Existen parámetros
+[31-Mar-2021 01:47:14 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(34): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[31-Mar-2021 01:47:14 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:47:14 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:47:14 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:47:14 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:47:14 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[31-Mar-2021 01:47:14 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[31-Mar-2021 01:47:14 Europe/Berlin] SessionController::validateSession() public page
+[31-Mar-2021 01:47:14 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[31-Mar-2021 01:47:58 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:47:58 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:47:58 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:47:59 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:47:59 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[31-Mar-2021 01:47:59 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[31-Mar-2021 01:47:59 Europe/Berlin] SessionController::validateSession() public page
+[31-Mar-2021 01:48:00 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:00 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:00 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:00 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:00 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:00 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:00 Europe/Berlin] SessionController::validateSession() public page
+[31-Mar-2021 01:48:00 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:10 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:10 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:10 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:11 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:11 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:11 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:11 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:11 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:11 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:11 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:11 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:11 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:11 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:11 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:11 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:11 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:11 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:11 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:11 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:11 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:11 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:11 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:11 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:11 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:11 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:11 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:11 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:11 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:11 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:11 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:11 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:11 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:11 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:11 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:11 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:11 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:11 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:11 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:11 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:11 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:11 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:11 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:11 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:11 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:11 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:11 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:11 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:11 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:11 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:12 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:12 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:12 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:12 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:12 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:12 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:12 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:12 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:12 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:12 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:12 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:12 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:12 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:12 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:12 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:12 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:12 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:12 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:12 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:12 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:12 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:12 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:12 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:12 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:12 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:12 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:12 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:12 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:12 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:12 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:12 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:13 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:13 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:13 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:13 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:13 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:13 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:13 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:13 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:13 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:13 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:13 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:14 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:14 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:14 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:14 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:14 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:14 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:14 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:14 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:14 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:14 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:14 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:14 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:14 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:14 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:14 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:14 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:14 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:14 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:14 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:14 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:14 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:14 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:14 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:14 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:14 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:14 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:14 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:14 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:14 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:14 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:14 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:14 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:14 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:14 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:14 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:14 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:14 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:14 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:14 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:14 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:14 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:14 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:14 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:15 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:15 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:15 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:15 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:15 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:15 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:15 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:15 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:15 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:15 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:15 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:15 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:15 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:15 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:15 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:15 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:15 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:15 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:15 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:15 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:15 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:15 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:15 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:15 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:15 Europe/Berlin] SessionController::validateSession() redirect al login
+[31-Mar-2021 01:48:15 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:48:37 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:48:37 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:48:37 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:48:37 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:48:37 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:48:37 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:48:37 Europe/Berlin] SessionController::validateSession() public page
+[31-Mar-2021 01:48:37 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:50:14 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:50:14 Europe/Berlin] Errores::costruct-Errpres
+[31-Mar-2021 01:50:20 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:50:20 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:50:20 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:50:20 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:50:20 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[31-Mar-2021 01:50:20 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[31-Mar-2021 01:50:20 Europe/Berlin] SessionController::validateSession() public page
+[31-Mar-2021 01:50:20 Europe/Berlin] login::costruct-inicio de login
+[31-Mar-2021 01:52:31 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:52:31 Europe/Berlin] Errores::costruct-Errpres
+[31-Mar-2021 01:52:37 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:52:37 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:52:37 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:52:37 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:52:37 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[31-Mar-2021 01:52:37 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[31-Mar-2021 01:52:37 Europe/Berlin] SessionController::validateSession() public page
+[31-Mar-2021 01:53:02 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:53:02 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:53:02 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:53:02 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:53:02 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[31-Mar-2021 01:53:02 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[31-Mar-2021 01:53:02 Europe/Berlin] SessionController::validateSession() public page
+[31-Mar-2021 01:53:02 Europe/Berlin] ExistPOST: Existen parámetros
+[31-Mar-2021 01:53:02 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:53:02 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:53:02 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:53:02 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:53:02 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?erro=0004, url => signup?erro=0004
+[31-Mar-2021 01:53:02 Europe/Berlin] sessionController::isPublic(): currentURL => signup?erro=0004
+[31-Mar-2021 01:53:02 Europe/Berlin] SessionController::validateSession() public page
+[31-Mar-2021 01:53:51 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:53:51 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:53:51 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:53:51 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:53:51 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup/newUser, url => signup
+[31-Mar-2021 01:53:51 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[31-Mar-2021 01:53:51 Europe/Berlin] SessionController::validateSession() public page
+[31-Mar-2021 01:53:51 Europe/Berlin] ExistPOST: Existen parámetros
+[31-Mar-2021 01:53:51 Europe/Berlin] UserModel::save->PDOExeptionPDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?ña)' at line 1 in C:\xampp\htdocs\MVC_CTH\libs\model.php:12
+Stack trace:
+#0 C:\xampp\htdocs\MVC_CTH\libs\model.php(12): PDO->prepare('INSERT INTO `us...')
+#1 C:\xampp\htdocs\MVC_CTH\models\userModel.php(21): Model->prepare('INSERT INTO `us...')
+#2 C:\xampp\htdocs\MVC_CTH\controllers\signup.php(34): UserModel->save()
+#3 C:\xampp\htdocs\MVC_CTH\libs\app.php(53): Signup->newUser()
+#4 C:\xampp\htdocs\MVC_CTH\index.php(29): App->__construct()
+#5 {main}
+[31-Mar-2021 01:53:51 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:53:51 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:53:51 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:53:51 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:53:51 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?error=0003, url => signup?error=0003
+[31-Mar-2021 01:53:51 Europe/Berlin] sessionController::isPublic(): currentURL => signup?error=0003
+[31-Mar-2021 01:53:51 Europe/Berlin] SessionController::validateSession() public page
+[31-Mar-2021 01:53:52 Europe/Berlin] PHP Warning:  Undefined property: ErrorMessages::$errorsList in C:\xampp\htdocs\MVC_CTH\clases\erroresmessages.php on line 28
+[31-Mar-2021 01:53:54 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:53:54 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:53:54 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:53:55 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:53:55 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?erro=0004, url => signup?erro=0004
+[31-Mar-2021 01:53:55 Europe/Berlin] sessionController::isPublic(): currentURL => signup?erro=0004
+[31-Mar-2021 01:53:55 Europe/Berlin] SessionController::validateSession() public page
+[31-Mar-2021 01:55:24 Europe/Berlin] inicio de la apliccion web
+[31-Mar-2021 01:55:24 Europe/Berlin] SessionController::validateSession()
+[31-Mar-2021 01:55:24 Europe/Berlin] PHP Warning:  Undefined array key "userCorreo" in C:\xampp\htdocs\MVC_CTH\clases\sesion.php on line 17
+[31-Mar-2021 01:55:24 Europe/Berlin] sessionController::getUserSessionData(): 
+[31-Mar-2021 01:55:24 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup?erro=0004, url => signup?erro=0004
+[31-Mar-2021 01:55:24 Europe/Berlin] sessionController::isPublic(): currentURL => signup?erro=0004
+[31-Mar-2021 01:55:24 Europe/Berlin] SessionController::validateSession() public page

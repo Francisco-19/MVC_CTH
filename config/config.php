@@ -1,5 +1,5 @@
 <?php
-define('URL','http://localhost:8080/MCV_CTH');
+define('URL','http://localhost/MVC_CTH');
 
 define('HOST','localhost');
 define('DB','cth');

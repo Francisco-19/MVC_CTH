@@ -1,6 +1,8 @@
 <?php
 /**implementar el  controladorm para porder registrar a los usuarios*/
 
+require_once 'models/userModel.php';
+
 class Signup extends sesionController{ 
 
 
@@ -9,7 +11,8 @@ class Signup extends sesionController{
     }
 
     function render(){
-        $this-> view->render('login/signup',[]);
+        $this-> view->render('login/signup');
+        $this-> view->render('login/index');
         
 
     }
@@ -23,7 +26,7 @@ class Signup extends sesionController{
                 $this->redirect('signup',['erro'=>ErrorMessages::ERROR_SIGNUP_EMPTY]);
             }
             $user = new UserModel();
-            $user->setcorreo($correo);
+            $user->setUserCorreo($correo);
             $user->getContraseña($contraseña);
             $user->setrol('user');
 
@@ -38,7 +41,7 @@ class Signup extends sesionController{
             
 
         }else{
-            $this->redirect('singup',['error'=> ErrorMessages::ERROR_SIGNUP_NEWUSER]);
+            $this->redirect('signup',['error'=> ErrorMessages::ERROR_SIGNUP_EMPTY]);
         }
     }
 

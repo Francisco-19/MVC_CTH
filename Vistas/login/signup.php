@@ -9,23 +9,23 @@
 <body>
     <?PHP $this->showMessages();?>
 
-    <form action="<?php echo constant('URL'); ?>signup/newUser" method="POST">
+    <form action="<?php echo constant('URL'); ?>/signup/newUser" method="POST">
         <div></div>
             <h2>Registrarse</h2>
 
             <p>
-                <label for="username">Username</label>
-                <input type="text" name="username" id="username">
+                <label for="correo">correo</label>
+                <input type="text" name="correo" id="correo">
             </p>
             <p>
-                <label for="password">password</label>
-                <input type="text" name="password" id="password">
+                <label for="contraseña">contraseña</label>
+                <input type="text" name="contraseña" id="contraseña">
             </p>
             <p>
                 <input type="submit" value="Iniciar sesión" />
             </p>
             <p>
-                ¿Tienes una cuenta? <a href="<?php echo constant('URL'); ?>">Iniciar sesion</a>
+                ¿Tienes una cuenta? <a href="<?php echo constant('URL'); ?>/signup">Iniciar sesion</a>
             </p>
         </form>
 </body>

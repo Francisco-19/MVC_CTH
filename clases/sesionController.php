@@ -3,11 +3,11 @@
 class SesionController extends Controller{
 
     private $userSession;
-    private $usename;
-    private $userid;
+    private $userCorre;
+    private $idusuario;
 
     private $session;
-    private $site;
+    private $sites;
 
     private $user;
 
@@ -19,12 +19,12 @@ class SesionController extends Controller{
         return $this->userSession;
     }
 
-    public function getUsername(){
-        return $this->username;
+    public function getUserCorreo(){
+        return $this->userCorre;
     }
 
     public function getUserId(){
-        return $this->userid;
+        return $this->idusuario;
     }
 
 
@@ -54,7 +54,7 @@ class SesionController extends Controller{
         $rol = $this->getUserSessionData()->getrol();
         //Si existe la sesión
         if($this->existsSession()){
-            error_log("sessionController::validateSession(): username:" . $this->user->getnombre() . " - role: " . $this->user->getrole());
+            error_log("sessionController::validateSession(): username:" . $this->user->getUserCorreo() . " - role: " . $this->user->getrole());
             if($this->isPublic()){
                 $this->redirectDefaultSiteByRole($rol);
                 error_log( "SessionController::validateSession() => sitio público, redirige al main de cada rol" );
@@ -89,17 +89,17 @@ class SesionController extends Controller{
         if(!$this->session->exists()) return false;
         if($this->session->getCurrentUser() == NULL) return false;
 
-        $userid = $this->session->getCurrentUser();
+        $idusuario = $this->session->getCurrentUser();
 
-        if($userid) return true;
+        if($idusuario) return true;
 
         return false;
     }
     function getUserSessionData(){
-        $id = $this->session->getCurrentUser();
+        $idusuario = $this->session->getCurrentUser();
         $this->user = new UserModel();
-        $this->user->get($id);
-        error_log("sessionController::getUserSessionData(): " . $this->user->getnombre());
+        $this->user->get($idusuario);
+        error_log("sessionController::getUserSessionData(): " . $this->user->getUserCorreo());
         return $this->user;
     }
     private function isPublic(){
@@ -121,10 +121,10 @@ class SesionController extends Controller{
         return $url[2];
     }
 
-    private function redirectDefaultSiteByRole($role){
+    private function redirectDefaultSiteByRole($rol){
         $url = '';
         for($i = 0; $i < sizeof($this->sites); $i++){
-            if($this->sites[$i]['rol'] === $role){
+            if($this->sites[$i]['rol'] === $rol){
                 $url = '/MVC_CTH/'.$this->sites[$i]['site'];
             break;
             }
@@ -132,24 +132,24 @@ class SesionController extends Controller{
         header('location: '.$url);
         
     }
-    private function isAuthorized($role){
+    private function isAuthorized($rol){
         $currentURL = $this->getCurrentPage();
         $currentURL = preg_replace( "/\?.*/", "", $currentURL); //omitir get info
         
         for($i = 0; $i < sizeof($this->sites); $i++){
-            if($currentURL == $this->sites[$i]['site'] && $this->sites[$i]['rol'] === $role){
+            if($currentURL == $this->sites[$i]['site'] && $this->sites[$i]['rol'] === $rol){
                 return true;
             }
         }
         return false;
     }
     public function initialize($user){
-        error_log("sessionController::initialize(): user: " . $user->getnombre());
-        $this->session->setCurrentUser($user->getId());
+        error_log("sessionController::initialize(): user: " . $user->getUserCorreo());
+        $this->session->setCurrentUser($user->getidusuario());
         $this->authorizeAccess($user->getrol());
     }
-    function authorizeAccess($role){
-        switch($role){
+    function authorizeAccess($rol){
+        switch($rol){
             case 'user':
                 $this->redirect($this->defaultSites['user'],[]);
             break;

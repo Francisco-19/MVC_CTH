@@ -1,8 +1,7 @@
 <?php
 
 class Session{
-
-    private $sessionName = 'user';
+    private $sessionName = 'userCorreo';
 
     public function __construct(){
         if (session_status() == PHP_SESSION_NONE) {
@@ -10,8 +9,8 @@ class Session{
         }
     }
 
-    public function setCurrentUser($user){
-        $_SESSION[$this->sessionName] = $user;
+    public function setCurrentUser($userCorreo){
+        $_SESSION[$this->sessionName] = $userCorreo;
     }
 
     public function getCurrentUser(){
