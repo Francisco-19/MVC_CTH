@@ -3,7 +3,7 @@
 class SesionController extends Controller{
 
     private $userSession;
-    private $userCorre;
+    private $userCorreo;
     private $idusuario;
 
     private $session;
@@ -20,7 +20,7 @@ class SesionController extends Controller{
     }
 
     public function getUserCorreo(){
-        return $this->userCorre;
+        return $this->userCorreo;
     }
 
     public function getUserId(){
@@ -51,9 +51,10 @@ class SesionController extends Controller{
     }
     function validateSession(){
         error_log('SessionController::validateSession()');
-        $rol = $this->getUserSessionData()->getrol();
         //Si existe la sesión
         if($this->existsSession()){
+            $rol = $this->getUserSessionData()->getrol();
+
             error_log("sessionController::validateSession(): username:" . $this->user->getUserCorreo() . " - role: " . $this->user->getrole());
             if($this->isPublic()){
                 $this->redirectDefaultSiteByRole($rol);
@@ -96,7 +97,7 @@ class SesionController extends Controller{
         return false;
     }
     function getUserSessionData(){
-        $idusuario = $this->session->getCurrentUser();
+        $idusuario = $this->idusuario;
         $this->user = new UserModel();
         $this->user->get($idusuario);
         error_log("sessionController::getUserSessionData(): " . $this->user->getUserCorreo());
@@ -144,7 +145,7 @@ class SesionController extends Controller{
         return false;
     }
     public function initialize($user){
-        error_log("sessionController::initialize(): user: " . $user->getUserCorreo());
+        error_log("sessionController::initialize(): user: " . $user->getidusuario());
         $this->session->setCurrentUser($user->getidusuario());
         $this->authorizeAccess($user->getrol());
     }

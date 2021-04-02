@@ -7,12 +7,17 @@
     <title>R_EGISTRO</title>
 </head>
 <body>
-    <?PHP $this->showMessages();?>
+     <?PHP $this->showMessages();?>
 
-    <form action="<?php echo constant('URL'); ?>/signup/newUser" method="POST">
+    <form action="<?php echo constant('URL'); ?>signup/nuevoUsuario" method="POST">
         <div></div>
+       
             <h2>Registrarse</h2>
-
+            
+            <p>
+                <label for="nombre">nombre</label>
+                <input type="text" name="nombre" id="nombre">
+            </p>
             <p>
                 <label for="correo">correo</label>
                 <input type="text" name="correo" id="correo">

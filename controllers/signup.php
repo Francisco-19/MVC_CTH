@@ -11,41 +11,45 @@ class Signup extends sesionController{
     }
 
     function render(){
+        $this->view->errorMessage="";
         $this-> view->render('login/signup');
         $this-> view->render('login/index');
-        
+       
 
     }
-    function newUser(){
-        if($this->existPOST(['correo','contraseña'])){
+    function nuevoUsuario(){
+       if($this->existPOST(['nombre','correo','contraseña'])){
+        $nombre = $this->getPost('nombre');   
+        $userCorreo= $this->getPost('correo');
+        $contraseña= $this->getPost('contraseña');
 
-            $correo =$this->getPost('correo');
-            $contraseña =$this->getPost('contraseña');
+    if($nombre==''||empty($nombre)||$userCorreo==''||empty($userCorreo)
+    ||$contraseña==''||empty($contraseña)){
 
-            if($correo == '' || empty($correo) || $contraseña==''|| empty($contraseña)){
-                $this->redirect('signup',['erro'=>ErrorMessages::ERROR_SIGNUP_EMPTY]);
-            }
-            $user = new UserModel();
-            $user->setUserCorreo($correo);
-            $user->getContraseña($contraseña);
-            $user->setrol('user');
+    $this->redirect('signup',['error'=>ErrorMessages::ERROR_SIGNUP_nuevoUsuario_CAMPOSVACIOS]);
+    }
+        $user =new userModel();
+        $user->setnombre($nombre);
+        $user->setUserCorreo($userCorreo);
+        $user->setcontraseña($contraseña);
+        $user->setrol('user');
+   
+    if($user->exists($userCorreo)){
+        $this->redirect('signup',['error'=>ErrorMessages::ERROR_SIGNUP_nuevoUsuario_CAMPOSVACIOS]);
+       
+    }else if ($user->save()) {
+    
+       $this->redirect('', ['success' => SuccessMessages::SUCCES_SIGNUP_NEWUSER]);
+    }else{
+        $this->redirect('signup',['error'=>ErrorMessages::ERROR_SIGNUP_nuevoUsuario]);
 
-            if($user->exists($correo)){
-                $this->redirect('signup',['erro'=>ErrorMessages::ERROR_SIGNUP_NEWUSER_EXIST]);
-            }else if($user->save()){
-                $this->redirect('signup',['success'=>SuccessMessages::SUCCES_SIGNUP_NEWUSER]);
-            }else{
-                $this->redirect('signup',['error'=>ErrorMessages::ERROR_SIGNUP_NEWUSER]);
-            }
+    }
 
-            
-
-        }else{
-            $this->redirect('signup',['error'=> ErrorMessages::ERROR_SIGNUP_EMPTY]);
-        }
+    }else{
+           $this->redirect('signup',['error'=>ErrorMessages::ERROR_SIGNUP_nuevoUsuario_EXISTENTE]);
+       }
+ 
     }
 
 }
-
-
 ?>

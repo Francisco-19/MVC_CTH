@@ -27,9 +27,9 @@ class controller{
         return true;
     }
     function existGET($params){
-        foreach($params as $params){
-            if(!isset($_GET[$params])){
-                error_log('CONTROLLER::existGET => no existe el paramero'.$params);
+        foreach($params as $param){
+            if(!isset($_GET[$param])){
+                error_log('CONTROLLER::existGET => no existe el paramero'.$param);
                 return false;
             }
         }
