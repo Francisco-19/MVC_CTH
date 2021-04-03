@@ -1,5 +1,6 @@
 <?php
  require_once 'clases/sesion.php';
+ require_once 'models/userModel.php';
 class SesionController extends Controller{
 
     private $userSession;
@@ -55,7 +56,7 @@ class SesionController extends Controller{
         if($this->existsSession()){
             $rol = $this->getUserSessionData()->getrol();
 
-            error_log("sessionController::validateSession(): username:" . $this->user->getUserCorreo() . " - role: " . $this->user->getrole());
+            error_log("sessionController::validateSession(): username:" . $this->user->getUserCorreo() . " - role: " . $this->user->getrol());
             if($this->isPublic()){
                 $this->redirectDefaultSiteByRole($rol);
                 error_log( "SessionController::validateSession() => sitio público, redirige al main de cada rol" );
@@ -97,7 +98,7 @@ class SesionController extends Controller{
         return false;
     }
     function getUserSessionData(){
-        $idusuario = $this->idusuario;
+        $idusuario = $this->session-> getCurrentUser();
         $this->user = new UserModel();
         $this->user->get($idusuario);
         error_log("sessionController::getUserSessionData(): " . $this->user->getUserCorreo());
@@ -126,21 +127,25 @@ class SesionController extends Controller{
         $url = '';
         for($i = 0; $i < sizeof($this->sites); $i++){
             if($this->sites[$i]['rol'] === $rol){
-                $url = '/MVC_CTH/'.$this->sites[$i]['site'];
+                $url ='/MVC_CTH/'. $this->sites[$i]['site'];
             break;
             }
+            break;
         }
-        header('location: '.$url);
+        header('location: '.constant('URL').$url);
         
     }
     private function isAuthorized($rol){
         $currentURL = $this->getCurrentPage();
         $currentURL = preg_replace( "/\?.*/", "", $currentURL); //omitir get info
-        
+       
+
         for($i = 0; $i < sizeof($this->sites); $i++){
             if($currentURL == $this->sites[$i]['site'] && $this->sites[$i]['rol'] === $rol){
                 return true;
+                break;
             }
+            break;
         }
         return false;
     }
@@ -150,6 +155,7 @@ class SesionController extends Controller{
         $this->authorizeAccess($user->getrol());
     }
     function authorizeAccess($rol){
+        error_log("sessionController::authorizeAccess(): role: $rol");
         switch($rol){
             case 'user':
                 $this->redirect($this->defaultSites['user'],[]);
@@ -158,6 +164,7 @@ class SesionController extends Controller{
                 $this->redirect($this->defaultSites['admin'],[]);
             
             break;
+            default:
         }
     }
     function logout() {

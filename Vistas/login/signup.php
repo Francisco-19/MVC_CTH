@@ -27,10 +27,10 @@
                 <input type="text" name="contraseña" id="contraseña">
             </p>
             <p>
-                <input type="submit" value="Iniciar sesión" />
+                <input type="submit" value="Iniciar Registro" />
             </p>
             <p>
-                ¿Tienes una cuenta? <a href="<?php echo constant('URL'); ?>/signup">Iniciar sesion</a>
+                ¿Tienes una cuenta? <a href="<?php echo constant('URL'); ?>login">Iniciar sesion</a>
             </p>
         </form>
 </body>

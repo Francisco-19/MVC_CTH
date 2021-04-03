@@ -11,20 +11,26 @@
             "rol":""
         },
         {
-            "site":"exames",
+            "site":"alumnos",
             "access":"private",
             "rol":"user"
         },
         {
-            "site":"controles",
+            "site":"admin",
             "access":"private",
             "role":"admin"
         }
     ],
-    "default-sites":{
-        "user": "examens",
-        "admin": "admin"
-    }
+    "default-sites":[{
+        "site":"alumnos",
+        "access":"private",
+        "rol":"user"
+    },
+    {
+        "site":"admin",
+        "access":"private",
+        "role":"admin"
+    }]
         
     
 }

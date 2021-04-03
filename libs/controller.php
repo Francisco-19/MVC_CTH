@@ -52,7 +52,7 @@ class controller{
         if($params!=''){
             $params = '?'.$params;
         }
-        header('location: ' . constant('URL').'/' . $url . $params);
+        header('location: ' . constant('URL') . $url . $params);
     }
 
 }

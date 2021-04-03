@@ -1,4 +1,5 @@
 <?php
+require_once 'models/userModel.php';
 class UserModel extends Model implements IModel{
 
     private $idusuario;
@@ -114,7 +115,7 @@ class UserModel extends Model implements IModel{
             $this->setUserCorreo($user['userCorreo']);
             $this->setcontraseña($user['contraseña']);
          
-          //  var_dump($user);
+           
             return $this;
         }catch(PDOException $e){
             error_log('USSERMODEL::GETID ->pdoExeptiom'.$e);

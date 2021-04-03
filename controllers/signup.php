@@ -13,7 +13,6 @@ class Signup extends sesionController{
     function render(){
         $this->view->errorMessage="";
         $this-> view->render('login/signup');
-        $this-> view->render('login/index');
        
 
     }
