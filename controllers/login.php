@@ -13,8 +13,7 @@
             $this->view->render('login/index');
         }
 
-        function atuentificarse()
-        {
+        function atuentificarse(){
             if ($this->existPOST(['correo', 'contraseña'])) {
                 $userCorreo = $this->getPost('correo');
                 $contraseña = $this->getPost('contraseña');

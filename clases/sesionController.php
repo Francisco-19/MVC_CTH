@@ -127,12 +127,12 @@ class SesionController extends Controller{
         $url = '';
         for($i = 0; $i < sizeof($this->sites); $i++){
             if($this->sites[$i]['rol'] === $rol){
-                $url ='/MVC_CTH/'. $this->sites[$i]['site'];
+                $url = '/MVC_CTH/'.$this->sites[$i]['site'];
             break;
             }
-            break;
+         
         }
-        header('location: '.constant('URL').$url);
+        header(constant('URL').$url);
         
     }
     private function isAuthorized($rol){
@@ -164,7 +164,7 @@ class SesionController extends Controller{
                 $this->redirect($this->defaultSites['admin'],[]);
             
             break;
-            default:
+        
         }
     }
     function logout() {

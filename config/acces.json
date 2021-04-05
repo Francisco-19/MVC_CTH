@@ -21,16 +21,10 @@
             "role":"admin"
         }
     ],
-    "default-sites":[{
-        "site":"alumnos",
-        "access":"private",
-        "rol":"user"
-    },
-    {
-        "site":"admin",
-        "access":"private",
-        "role":"admin"
-    }]
+    "default-sites":{
+        "user": "alumnos",
+        "admin": "admin"
+    }
         
     
 }
