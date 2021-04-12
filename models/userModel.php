@@ -30,29 +30,6 @@ class UserModel extends Model implements IModel{
     public function getUserCorreo(){                    return $this->userCorreo; }
     public function getContraseña(){                    return $this->contraseña;}
 
-    public function insert(){
-        $sql = "INSERT INTO usuarios(nombre,rol,userCorreo,contraseña) 
-        VALUES (:?,:rol,?,?)";
-        try{
-            $query = $this->prepare($sql);
-            $query->execute(array($_POST['nombre'],'rol'=>$this->rol,$_POST['userCorreo']
-        ,$_POST['contraseña']));
-            
-          
-        }catch(PDOException $exs){
-            echo $exs;
-            return false;
-        }
-
-    }
-
-
-
-
-
-
-
-
    public function save(){
         try{
             $query = $this->prepare('INSERT INTO `usuarios`(`nombre`, `rol`, `userCorreo`, `contraseña`) 

@@ -11,7 +11,7 @@
     <h1>Viista de los ADMINISTADORES PERRROS</h1>
     <?PHP $this->showMessages();?>
     <a href="<?php echo constant('URL'); ?>logout">logaut</a>
-
+    <a href="<?php echo constant('URL'); ?>estadosdelexamen">listadoDeAlumnos</a>
     
 </body>
 </html>

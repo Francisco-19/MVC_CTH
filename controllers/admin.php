@@ -9,7 +9,8 @@
 
         function render()
         {
-            
+            error_log('alumnos::render-inicio de login');
+
             $this->view->render('admin/index');
         }
 

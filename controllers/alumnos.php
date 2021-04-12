@@ -12,7 +12,7 @@
             error_log('alumnos::render-inicio de login');
             $this->view->render('alumnos/index');
         }
-
+        
        
     }
     ?>
