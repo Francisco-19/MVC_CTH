@@ -109,7 +109,7 @@ class SesionController extends Controller{
         error_log("sessionController::isPublic(): currentURL => " . $currentURL);
         $currentURL = preg_replace( "/\?.*/", "", $currentURL); //omitir get info
         for($i = 0; $i < sizeof($this->sites); $i++){
-            if($currentURL == $this->sites[$i]['site'] && $this->sites[$i]['access'] == 'public'){
+            if($currentURL === $this->sites[$i]['site'] && $this->sites[$i]['access'] === 'public'){
                 return true;
             }
         }
@@ -139,18 +139,15 @@ class SesionController extends Controller{
         $currentURL = $this->getCurrentPage();
         $currentURL = preg_replace( "/\?.*/", "", $currentURL); //omitir get info
        
-
         for($i = 0; $i < sizeof($this->sites); $i++){
             if($currentURL == $this->sites[$i]['site'] && $this->sites[$i]['rol'] === $rol){
                 return true;
-                break;
             }
-            break;
         }
         return false;
     }
     public function initialize($user){
-        error_log("sessionController::initialize(): user: " . $user->getidusuario());
+        error_log("sessionController::initialize(): user: " . $user->getUserCorreo());
         $this->session->setCurrentUser($user->getidusuario());
         $this->authorizeAccess($user->getrol());
     }

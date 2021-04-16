@@ -62,8 +62,8 @@ class listadoDeAlumnos extends Model{
                 array_push($listadoDeAlumnos,$listado);
                  
             }
-        
-           var_dump($listado);
+             
+         
                 return $listadoDeAlumnos;
 
          }catch(PDOException $e){

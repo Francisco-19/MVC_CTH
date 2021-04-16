@@ -27,6 +27,8 @@
     require_once 'clases/erroresmessages.php';
     require_once 'config/config.php';
     require_once 'models/userModel.php';
+    require_once 'models/PDOservicios.php';
+
     require_once 'models/generarExame.php';
 
     
