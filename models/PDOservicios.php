@@ -28,6 +28,125 @@ class PDOservicios extends Model{
            error_log('listadoDeAlumnos::generarLista->PDOException'.$e);
         }
        }
+       
+       private $listaDeFolioActivo=[];
 
+       public function modulos(){
+       $listadoDeModulos=[];
+        try{
+            $sqlModulo= $this->query("SELECT idModulo  FROM `modulos`");
+            while($p=$sqlModulo->fetch(PDO::FETCH_ASSOC)){
+                $listMod= new listadoDeAlumnos();
+                $listMod->setidModulo($p['idModulo']);
+
+                array_push($listadoDeModulos,$listMod);
+            }
+            
+            return $listadoDeModulos;
+        }catch(PDOException $e){
+            error_log('modulos::generarLista->PDOException'.$e);
+        }
+    }
+    public function PreguntaAleatoria($Nmodulos){
+        try{
+             $listPAleat=[];
+             $nPregunta=10;
+            foreach($Nmodulos as $valor){
+                for($i=1; $i<=10; $i++){
+                $sqlPgnAl=$this->query("SELECT idpregunta FROM preguntas_de_examen_alum WHERE idModulo=$valor ORDER BY rand()");
+                while($p= $sqlPgnAl->fetch(PDO::FETCH_ASSOC)){
+                $preguntaA=new listadoDeAlumnos();
+                $preguntaA->setidpregunta($p['idpregunta']);
+                
+                array_push($listPAleat,$preguntaA); //var_dump($listPAleat); 
+                }
+
+                }
+                
+                return $listPAleat;
+                
+                        
+            }
+
+        }catch(PDOException $e){
+            error_log('modulos::generarLista->PDOException'.$e);
+
+        }
+    }
+    public function verificacarFlolioExist(){                    
+        try{
+           $sql = $this->prepare("SELECT * FROM usuarios E LEFT JOIN examen U ON E.idusuario=U.idusuario WHERE rol='user'");  
+          
+           $sql->execute();
+           $sql->setFetchMode(PDO::FETCH_CLASS,'listadoDeAlumnos');
+           return $sql->fetchAll();
+        }catch(PDOException $e){
+           error_log('listadoDeAlumnos::verificacarFlolioExist->PDOException'.$e);
+        }
+
+    }             
+    public function GenerarFolioDeExamenTodos($usuruios,$status,$modulo){
+        try{
+        
+            $query = $this->query("INSERT INTO examen(idusuario,status,idModulo) 
+            VALUES ($usuruios,$status,$modulo");
+            $query->execute();
+                return true;
+        }catch(PDOException $e){
+            error_log('modulos::GenerarFolioDeExamenTodos->PDOException'.$e);
+            return false;
+        }
+    }
+    function buscarPorUsuarioCorreosVarios($correo){                    
+        try{
+            $coreosDetectados=[];
+            foreach($correo as $val):
+            $sqlX=$this->query("SELECT * FROM usuarios WHERE userCorreo='$val'");
+            while($p=$sqlX->fetch(PDO::FETCH_ASSOC)){
+                $listCorreo=new listadoDeAlumnos();
+                $listCorreo->setid($p['idusuario']);
+                
+                array_push($coreosDetectados,$listCorreo);
+            }
+            endforeach;
+           return $coreosDetectados;
+
+        }catch(PDOException $e){
+            error_log('modulos::buscarPorUsuarioCorreo->PDOException'.$e);
+        }
+    }
+
+    public function listadoDeFolioActivo(){
+        try{
+            $sql=$this->query("SELECT Folio FROM examen WHERE status='activo'");
+            while($p= $sql->fetch(PDO::FETCH_ASSOC)){
+                $listFOlio= new listadoDeAlumnos();
+                $listFOlio->setFolio($p['Folio']);
+                array_push($listaDeFolioActivo,$listFOlio);
+            }
+            return $listaDeFolioActivo;
+        }catch(PDOException $e){
+            error_log('modulos::GenerarFolioDeExamen->PDOException'.$e);
+            return false;
+        }
+    }
+    public function generarHojaDeRespuestasAlum($preguntaAletoriaH){
+        try{
+            $sqlx=$this->query("INSERT INTO `respuestas_del_alumno`(`Folio`, `idpregunta`, `respuesta`)
+             VALUES (:Folio,:idRespuestas,'null')");
+            foreach ($this->listaDeFolioActivo as $valor){
+            $sqlx->execute([
+                'Folio'=>$this->valor,
+                'idrespuestas'=>$this->$preguntaAletoriaH
+            ]);
+                return true;
+            }
+            
+        }catch(PDOException $e){
+            error_log('modulos::generarHojaDeRespuestasAlum->PDOException'.$e);
+            return false;
+        }
+
+    }
 }
 ?>

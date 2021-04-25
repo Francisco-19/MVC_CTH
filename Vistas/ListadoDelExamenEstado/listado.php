@@ -18,7 +18,11 @@
     <h1>Viista de los ADMINISTADORES PERRROS</h1>
     <?PHP $this->showMessages();?>
     <a href="<?php echo constant('URL'); ?>logout">logaut</a>
-
+    <a href="<?php echo constant('URL'); ?>Estadosdelexamen/getModulos">generar Modulos</a>
+    <a href="<?php echo constant('URL'); ?>Estadosdelexamen/preguntasAleatorias">Preguntas aleatorias</a>
+    <a href="<?php echo constant('URL'); ?>Estadosdelexamen/generarFoliosTodos">generar el folio</a>
+    <a href="<?php echo constant('URL'); ?>logout">listadoDeFolioActivo</a>
+    <a href="<?php echo constant('URL'); ?>logout">generarHojaDeRespuestasAlum</a>
     <table class="table " >
                 <thead class="thead-dark">
                     <tr>
@@ -34,7 +38,7 @@
                     
                  foreach ( $relistadoA as $regAlum):?>
                     <tr>
-                        <?php var_dump($mExamen); ?>
+                        
                        
                         <td><?php echo $regAlum->getidusuario()?></td>
                         <td><?php echo $regAlum->getnombre()?></td>
