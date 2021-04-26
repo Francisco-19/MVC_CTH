@@ -21,7 +21,7 @@
     <a href="<?php echo constant('URL'); ?>Estadosdelexamen/getModulos">generar Modulos</a>
     <a href="<?php echo constant('URL'); ?>Estadosdelexamen/preguntasAleatorias">Preguntas aleatorias</a>
     <a href="<?php echo constant('URL'); ?>Estadosdelexamen/generarFoliosTodos">generar el folio</a>
-    <a href="<?php echo constant('URL'); ?>logout">listadoDeFolioActivo</a>
+    <a href="<?php echo constant('URL'); ?>Estadosdelexamen/listadoFolioActivos">listadoDeFolioActivo</a>
     <a href="<?php echo constant('URL'); ?>logout">generarHojaDeRespuestasAlum</a>
     <table class="table " >
                 <thead class="thead-dark">

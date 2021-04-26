@@ -10,6 +10,7 @@ class Estadosdelexamen extends SesionController
 
     parent::__construct();
     $this->mExamen = new listadoDeAlumnos();
+    $this->foliosActivos =new listadoDeAlumnos();
     $this->PuebaExamen = new listadoDeAlumnos();
     $this->PruebaModulo = new listadoDeAlumnos();
     $this->objPDO = new PDOservicios();
@@ -39,10 +40,10 @@ class Estadosdelexamen extends SesionController
     $listM = $this->mExamen = $this->objPDO->modulos();
     foreach ($listM as $a) :
       array_push($modulos, $a->getModulo());
-      
+
       reset($listM);
     endforeach;
-var_dump($modulos);
+    var_dump($modulos);
     return $modulos;
   }
   function preguntasAleatorias()
@@ -66,43 +67,112 @@ var_dump($modulos);
   {   /*pasos para gnerar todos los folios
       paso 1 = "recorrer el pdoservicios pra ver que usuarios no tiene examen y obtener su correo".
       paso 2 ="verificar el id por medio del correo obtenido".
-      paso 3="recorre los modulos existentes y crear los folios del pdo servicios->GenerarFolioDeExamenTodos(idusuario,status,modulo)
+      paso 3="recorre los modulos existentes guardar en areglo modulos[]
+      paso 4 crear los folios del pdo servicios->GenerarFolioDeExamenTodos(idusuario,status,modulo) *post = folio por modulo*
       */
-//paso 1    
-      /*Este recorrido sirvepara recorrer las2 tablas ala ves y si por casualidad hay un usuari
+    //paso 1************************************************************************************************************************************    
+    /*Este recorrido sirvepara recorrer las2 tablas ala ves y si por casualidad hay un usuari
       que no apareca en la otra tabla ejemp 
       if(folio=== null and id usuario == null)
        genera los folios segugun el modulos peroPEROpero como es una consulta por dos tablas
        se ara una busqueda de manera que se extraera el correo para su posterior uso
        */
-    $recorrido =$this->mExamen = $this->objPDO->verificacarFlolioExist();
-    $CorreoDetectado=[];//se guardaran los correos detectados en este areglo
-    foreach ($recorrido as $detectado) ://recorre el objeto con la informacion conseguida del PDOServicios->verificacarFlolioExist()
-      if ($detectado->getidusuario() == null and $detectado->getFolio() == null) {
-        array_push($CorreoDetectado,$detectado->getUserCorreo());//agrega los correos al array ya creado= $CorreoDetectado=[]
+    $recorrido = $this->mExamen = $this->objPDO->verificacarFlolioExist();
+    $CorreoDetectado = []; //se guardaran los correos detectados en este areglo
+    foreach ($recorrido as $detectado) : //recorre el objeto con la informacion conseguida del PDOServicios->verificacarFlolioExist()
+      if ($detectado->getidusuario() == null and $detectado->getFolio() == null or $detectado->getFolio() == "finalizado") {
+        array_push($CorreoDetectado, $detectado->getUserCorreo()); //agrega los correos al array ya creado= $CorreoDetectado=[]
       } else {
       }
     endforeach;
-//paso 2
+    //paso 2********************************************************************************************************************************
     /*para obtener el id utilizando el areglo  $CorreoDetectado=[] donde se guardaron los correos con anterioridad
     ejecutamos el PDOservicios->buscarPorUsuarioCorreosVarios($CorreoDetectado)
     y lo guardamos de igual manera en el areglo IDdetectado[]$pfs->getidusuario()
     */
-    $X = $this->PuebaExamen = $this->objPDO->buscarPorUsuarioCorreosVarios($CorreoDetectado); 
-    $IDdetectado=[];//aqui se guardan los id que se detectaron el la busqueda
+    $X = $this->PuebaExamen = $this->objPDO->buscarPorUsuarioCorreosVarios($CorreoDetectado);
+    $IDdetectado = []; //aqui se guardan los id que se detectaron el la busqueda
     foreach ($X as $pfs) :
-      array_push($IDdetectado,$pfs->getidusuario());//agrega los correos al array ya creado=$IDdetectado=[]
+      array_push($IDdetectado, $pfs->getidusuario()); //agrega los correos al array ya creado=$IDdetectado=[]
     endforeach;
-    var_dump($IDdetectado);
-//paso <i class="fa fa-battery-3
-$modulos = [];
+
+    //paso 3********************************************************************************************************************************
+    $modulos = [];
+    $listM = $this->mExamen = $this->objPDO->modulos();
+    foreach ($listM as $a) :
+      array_push($modulos, $a->getModulo());
+    endforeach;
+    // var_dump($modulos);
+    //paso 4************************************************************************************************************************************************
+    if ($IDdetectado != null) {
+      foreach ($IDdetectado as $s) :
+     
+          $this->objPDO->GenerarFolio($s, "activo");
+      endforeach;
+    } else {
+  
+      echo "Ya estan activos";
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    $arrayFloliosActivos=[];
+    $listFoliosActivos = $this->foliosActivos=$this->objPDO-> listadoDeFolioActivo();
+    foreach($listFoliosActivos as $valor):
+      array_push($arrayFloliosActivos,$valor->getFolio());
+    endforeach;
+    $preguntas2 = [];
+    $preguntas = $this->mExamen = $this->objPDO->PreguntaAleatoria($modulos);
+    foreach ($preguntas as $px) :
+      array_push($preguntas2, $px->getidPregunta());
+    endforeach;
+    if($arrayFloliosActivos != null){
+      foreach($arrayFloliosActivos as $Valor):
+        var_dump("$Valor");
+               foreach($preguntas2 as $px2):
+                 $this->objPDO->generarHojaDeRespuestasAlum($Valor, $px2);
+              //   var_dump($px2);
+               endforeach;
+             endforeach;
+        
+    }else{
+      echo"Ya se generaron las preguntas";
+    }
+    
+  }
+  function listadoFolioActivos(){
+    
+    // var_dump( $arrayFloliosActivos);
+   //  $modulos = [];
+
+
+
+
+   $modulos = [];
     $listM = $this->mExamen = $this->objPDO->modulos();
     foreach ($listM as $a) :
       array_push($modulos, $a->getModulo());
     endforeach;
 
-  }
-  function busquedaporcorreo($ingresoCorreo)
-  {
+    
+  //  var_dump($preguntas2);
+
+  /*    foreach($arrayFloliosActivos as $Valor):
+ var_dump("$Valor");
+        foreach($preguntas2 as $px2):
+          $this->objPDO->generarHojaDeRespuestasAlum($Valor, $px2);
+       //   var_dump($px2);
+        endforeach;
+      endforeach;*/
   }
 }

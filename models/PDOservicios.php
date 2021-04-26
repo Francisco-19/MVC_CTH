@@ -85,15 +85,15 @@ class PDOservicios extends Model{
         }
 
     }             
-    public function GenerarFolioDeExamenTodos($usuruios,$status,$modulo){
+    public function GenerarFolio($idusuruios,$status){
         try{
-        
-            $query = $this->query("INSERT INTO examen(idusuario,status,idModulo) 
-            VALUES ($usuruios,$status,$modulo");
+                $query = $this->prepare("INSERT INTO `examen`(`idusuario`, `status`) 
+            VALUES ($idusuruios,'$status')");
             $query->execute();
                 return true;
         }catch(PDOException $e){
             error_log('modulos::GenerarFolioDeExamenTodos->PDOException'.$e);
+//             var_dump($query);
             return false;
         }
     }
@@ -104,13 +104,11 @@ class PDOservicios extends Model{
             $sqlX=$this->query("SELECT * FROM usuarios WHERE userCorreo='$val'");
             while($p=$sqlX->fetch(PDO::FETCH_ASSOC)){
                 $listCorreo=new listadoDeAlumnos();
-                $listCorreo->setid($p['idusuario']);
-                
+                $listCorreo->setid($p['idusuario']);     
                 array_push($coreosDetectados,$listCorreo);
             }
             endforeach;
            return $coreosDetectados;
-
         }catch(PDOException $e){
             error_log('modulos::buscarPorUsuarioCorreo->PDOException'.$e);
         }
@@ -119,28 +117,19 @@ class PDOservicios extends Model{
     public function listadoDeFolioActivo(){
         try{
             $sql=$this->query("SELECT Folio FROM examen WHERE status='activo'");
-            while($p= $sql->fetch(PDO::FETCH_ASSOC)){
-                $listFOlio= new listadoDeAlumnos();
-                $listFOlio->setFolio($p['Folio']);
-                array_push($listaDeFolioActivo,$listFOlio);
-            }
-            return $listaDeFolioActivo;
+            $sql->setFetchMode(PDO::FETCH_CLASS,'listadoDeAlumnos');
+           return $sql->fetchAll();
         }catch(PDOException $e){
             error_log('modulos::GenerarFolioDeExamen->PDOException'.$e);
             return false;
         }
     }
-    public function generarHojaDeRespuestasAlum($preguntaAletoriaH){
+    public function generarHojaDeRespuestasAlum($folio, $preguntaAletoriaH){
         try{
-            $sqlx=$this->query("INSERT INTO `respuestas_del_alumno`(`Folio`, `idpregunta`, `respuesta`)
-             VALUES (:Folio,:idRespuestas,'null')");
-            foreach ($this->listaDeFolioActivo as $valor){
-            $sqlx->execute([
-                'Folio'=>$this->valor,
-                'idrespuestas'=>$this->$preguntaAletoriaH
-            ]);
-                return true;
-            }
+            $sqlx=$this->prepare("INSERT INTO respuestas_del_alumno( Folio, idpregunta, respuesta)
+             VALUES ($folio,$preguntaAletoriaH,null)");
+             $sqlx->execute();
+            return true;
             
         }catch(PDOException $e){
             error_log('modulos::generarHojaDeRespuestasAlum->PDOException'.$e);
