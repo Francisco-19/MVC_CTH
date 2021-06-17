@@ -1,13 +1,11 @@
 <?php
-
+//clase para realizar la coneccion de la base de datos
 class Database{
-
     private $host;
     private $db;
     private $user;
     private $password;
     private $charset;
-
     public function __construct(){
         $this->host = constant('HOST');
         $this->db = constant('DB');
@@ -15,7 +13,6 @@ class Database{
         $this->password = constant('PASSWORD');
         $this->charset = constant('CHARSET');
     }
-
     function connect(){
         try{
             $connection = "mysql:host=" . $this->host . ";dbname=" . $this->db . ";charset=" . $this->charset;

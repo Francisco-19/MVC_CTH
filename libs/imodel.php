@@ -1,4 +1,5 @@
 <?php
+    //metodos interface pra usar en otros metodos diferentes
     interface IModel{
         public function save();
         public function getAll();

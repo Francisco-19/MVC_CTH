@@ -21,7 +21,7 @@ class App{
             return false;
         }
         $archivoController = 'controllers/' . $url[0] . '.php';
-
+        //si existe un controlador
         if(file_exists($archivoController)){
             require_once $archivoController;
 

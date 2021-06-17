@@ -1,4 +1,5 @@
 <?php
+//valiables estaticas consigo el url definido entre otros prametros
 define('URL','http://localhost:80/MVC_CTH/');
 
 define('HOST','localhost');

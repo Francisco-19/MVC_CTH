@@ -9,7 +9,7 @@ class PDOservicios extends Model{
     public function generarLista(){
         $listadoDeAlumnos =[];
         try{
-           $sql = $this->query("SELECT * FROM usuarios WHERE rol='user'");  
+           $sql = $this->query("SELECT * FROM usuarios E LEFT JOIN examen U ON E.idusuario=U.idusuario WHERE rol='user'");  
            while($p= $sql->fetch(PDO::FETCH_ASSOC)){
                $listado=new  listadoDeAlumnos();
                $listado->setid($p['idusuario']);

@@ -7,7 +7,7 @@ class controller
     {
         $this->view = new View();
     }
-
+    
     function loadModel($model)
     {
         $url = 'models/' . $model . 'model.php';

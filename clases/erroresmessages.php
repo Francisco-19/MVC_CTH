@@ -1,5 +1,5 @@
 <?php
-
+//mensajes de error posibles
 class ErrorMessages{
     //El nombre de la cartegoria ya no existe
     

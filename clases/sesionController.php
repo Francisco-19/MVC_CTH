@@ -1,8 +1,9 @@
 <?php
+    //controlador de sesiones
+
  require_once 'clases/sesion.php';
  require_once 'models/userModel.php';
 class SesionController extends Controller{
-
     private $userSession;
     private $userCorreo;
     private $idusuario;
@@ -44,23 +45,27 @@ class SesionController extends Controller{
         // el tipo de rol y permismos
         $this->validateSession();
     }
+    //controlador de acceso archivo ubicado en config
     private function getJSONFileConfig(){
         $string = file_get_contents("config/acces.json");
         $json = json_decode($string, true);
-
         return $json;
     }
+    //validacion de session
     function validateSession(){
         error_log('SessionController::validateSession()');
         //Si existe la sesión
         if($this->existsSession()){
+            //guardar si existe un rol obtener la informacion
             $rol = $this->getUserSessionData()->getrol();
-
             error_log("sessionController::validateSession(): username:" . $this->user->getUserCorreo() . " - role: " . $this->user->getrol());
+            //verificar si el rol es puvlico
             if($this->isPublic()){
+                //redirige a acceso por default
                 $this->redirectDefaultSiteByRole($rol);
                 error_log( "SessionController::validateSession() => sitio público, redirige al main de cada rol" );
             }else{
+                //si es privado en este 
                 if($this->isAuthorized($rol)){
                     error_log( "SessionController::validateSession() => autorizado, lo deja pasar" );
                     //si el usuario está en una página de acuerdo

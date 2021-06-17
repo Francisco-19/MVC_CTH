@@ -3302,3 +3302,222 @@ Stack trace:
 [26-Apr-2021 10:42:51 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
 [26-Apr-2021 10:42:51 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
 [26-Apr-2021 10:42:51 Europe/Berlin] Estadosdelexamen::costruct-inicio de estado del examen
+[01-May-2021 22:36:36 Europe/Berlin] inicio de la apliccion web
+[01-May-2021 22:36:36 Europe/Berlin] SessionController::validateSession()
+[01-May-2021 22:36:36 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[01-May-2021 22:36:36 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-May-2021 22:36:36 Europe/Berlin] SessionController::validateSession() public page
+[01-May-2021 22:36:36 Europe/Berlin] login::costruct-inicio de login
+[01-May-2021 22:37:02 Europe/Berlin] inicio de la apliccion web
+[01-May-2021 22:37:02 Europe/Berlin] SessionController::validateSession()
+[01-May-2021 22:37:02 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/login/atuentificarse, url => login
+[01-May-2021 22:37:02 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[01-May-2021 22:37:02 Europe/Berlin] SessionController::validateSession() redirect al login
+[01-May-2021 22:37:02 Europe/Berlin] login::costruct-inicio de login
+[01-May-2021 22:37:02 Europe/Berlin] ExistPOST: Existen parámetros
+[01-May-2021 22:37:02 Europe/Berlin] login:: inicio
+[01-May-2021 22:37:02 Europe/Berlin] login: user id 10
+[01-May-2021 22:37:02 Europe/Berlin] login::atuentificarse() pasaste
+[01-May-2021 22:37:02 Europe/Berlin] sessionController::initialize(): user: vermrgo
+[01-May-2021 22:37:02 Europe/Berlin] sessionController::authorizeAccess(): role: admin
+[01-May-2021 22:37:02 Europe/Berlin] inicio de la apliccion web
+[01-May-2021 22:37:02 Europe/Berlin] SessionController::validateSession()
+[01-May-2021 22:37:02 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-May-2021 22:37:02 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: admin
+[01-May-2021 22:37:02 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//admin, url => 
+[01-May-2021 22:37:02 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-May-2021 22:37:02 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[01-May-2021 22:37:02 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[01-May-2021 22:37:02 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-May-2021 22:37:02 Europe/Berlin] admin::costruct-inicio de login
+[01-May-2021 22:37:02 Europe/Berlin] alumnos::render-inicio de login
+[01-May-2021 22:37:03 Europe/Berlin] inicio de la apliccion web
+[01-May-2021 22:37:03 Europe/Berlin] SessionController::validateSession()
+[01-May-2021 22:37:03 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-May-2021 22:37:03 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: admin
+[01-May-2021 22:37:03 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/estadosdelexamen, url => estadosdelexamen
+[01-May-2021 22:37:03 Europe/Berlin] sessionController::isPublic(): currentURL => estadosdelexamen
+[01-May-2021 22:37:03 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/estadosdelexamen, url => estadosdelexamen
+[01-May-2021 22:37:03 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 143
+[01-May-2021 22:37:03 Europe/Berlin] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[01-May-2021 22:37:03 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[01-May-2021 22:37:03 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[01-May-2021 22:37:03 Europe/Berlin] Estadosdelexamen::costruct-inicio de estado del examen
+[01-May-2021 22:37:03 Europe/Berlin] Estadosdelexamen::render-inicio de login
+[03-May-2021 04:37:01 Europe/Berlin] inicio de la apliccion web
+[03-May-2021 04:37:01 Europe/Berlin] SessionController::validateSession()
+[03-May-2021 04:37:01 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[03-May-2021 04:37:01 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[03-May-2021 04:37:01 Europe/Berlin] SessionController::validateSession() public page
+[03-May-2021 04:37:01 Europe/Berlin] login::costruct-inicio de login
+[03-May-2021 04:37:06 Europe/Berlin] inicio de la apliccion web
+[03-May-2021 04:37:06 Europe/Berlin] SessionController::validateSession()
+[03-May-2021 04:37:06 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/login/atuentificarse, url => login
+[03-May-2021 04:37:06 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[03-May-2021 04:37:06 Europe/Berlin] SessionController::validateSession() redirect al login
+[03-May-2021 04:37:06 Europe/Berlin] login::costruct-inicio de login
+[03-May-2021 04:37:06 Europe/Berlin] ExistPOST: Existen parámetros
+[03-May-2021 04:37:06 Europe/Berlin] login:: inicio
+[03-May-2021 04:37:06 Europe/Berlin] login: user id 10
+[03-May-2021 04:37:06 Europe/Berlin] login::atuentificarse() pasaste
+[03-May-2021 04:37:06 Europe/Berlin] sessionController::initialize(): user: vermrgo
+[03-May-2021 04:37:06 Europe/Berlin] sessionController::authorizeAccess(): role: admin
+[03-May-2021 04:37:06 Europe/Berlin] inicio de la apliccion web
+[03-May-2021 04:37:06 Europe/Berlin] SessionController::validateSession()
+[03-May-2021 04:37:06 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[03-May-2021 04:37:06 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: admin
+[03-May-2021 04:37:06 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//admin, url => 
+[03-May-2021 04:37:06 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[03-May-2021 04:37:06 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[03-May-2021 04:37:06 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[03-May-2021 04:37:06 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[03-May-2021 04:37:06 Europe/Berlin] admin::costruct-inicio de login
+[03-May-2021 04:37:06 Europe/Berlin] alumnos::render-inicio de login
+[03-May-2021 04:37:13 Europe/Berlin] inicio de la apliccion web
+[03-May-2021 04:37:13 Europe/Berlin] SessionController::validateSession()
+[03-May-2021 04:37:13 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[03-May-2021 04:37:13 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: admin
+[03-May-2021 04:37:13 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/estadosdelexamen, url => estadosdelexamen
+[03-May-2021 04:37:13 Europe/Berlin] sessionController::isPublic(): currentURL => estadosdelexamen
+[03-May-2021 04:37:13 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/estadosdelexamen, url => estadosdelexamen
+[03-May-2021 04:37:13 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 143
+[03-May-2021 04:37:13 Europe/Berlin] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[03-May-2021 04:37:13 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[03-May-2021 04:37:13 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[03-May-2021 04:37:13 Europe/Berlin] Estadosdelexamen::costruct-inicio de estado del examen
+[03-May-2021 04:37:13 Europe/Berlin] Estadosdelexamen::render-inicio de login
+[06-Jun-2021 01:01:39 Europe/Berlin] inicio de la apliccion web
+[06-Jun-2021 01:01:40 Europe/Berlin] SessionController::validateSession()
+[06-Jun-2021 01:01:40 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[06-Jun-2021 01:01:40 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[06-Jun-2021 01:01:40 Europe/Berlin] SessionController::validateSession() public page
+[06-Jun-2021 01:01:40 Europe/Berlin] login::costruct-inicio de login
+[14-Jun-2021 20:59:04 Europe/Berlin] inicio de la apliccion web
+[14-Jun-2021 20:59:04 Europe/Berlin] SessionController::validateSession()
+[14-Jun-2021 20:59:04 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[14-Jun-2021 20:59:04 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[14-Jun-2021 20:59:04 Europe/Berlin] SessionController::validateSession() public page
+[14-Jun-2021 20:59:04 Europe/Berlin] login::costruct-inicio de login
+[14-Jun-2021 20:59:09 Europe/Berlin] inicio de la apliccion web
+[14-Jun-2021 20:59:10 Europe/Berlin] SessionController::validateSession()
+[14-Jun-2021 20:59:10 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/login/atuentificarse, url => login
+[14-Jun-2021 20:59:10 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[14-Jun-2021 20:59:10 Europe/Berlin] SessionController::validateSession() redirect al login
+[14-Jun-2021 20:59:10 Europe/Berlin] login::costruct-inicio de login
+[14-Jun-2021 20:59:10 Europe/Berlin] ExistPOST: Existen parámetros
+[14-Jun-2021 20:59:10 Europe/Berlin] login:: inicio
+[14-Jun-2021 20:59:10 Europe/Berlin] login: user id 10
+[14-Jun-2021 20:59:10 Europe/Berlin] login::atuentificarse() pasaste
+[14-Jun-2021 20:59:10 Europe/Berlin] sessionController::initialize(): user: vermrgo
+[14-Jun-2021 20:59:10 Europe/Berlin] sessionController::authorizeAccess(): role: admin
+[14-Jun-2021 20:59:10 Europe/Berlin] inicio de la apliccion web
+[14-Jun-2021 20:59:10 Europe/Berlin] SessionController::validateSession()
+[14-Jun-2021 20:59:10 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[14-Jun-2021 20:59:10 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: admin
+[14-Jun-2021 20:59:10 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//admin, url => 
+[14-Jun-2021 20:59:10 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[14-Jun-2021 20:59:10 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[14-Jun-2021 20:59:10 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[14-Jun-2021 20:59:10 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[14-Jun-2021 20:59:10 Europe/Berlin] admin::costruct-inicio de login
+[14-Jun-2021 20:59:10 Europe/Berlin] alumnos::render-inicio de login
+[14-Jun-2021 20:59:11 Europe/Berlin] inicio de la apliccion web
+[14-Jun-2021 20:59:11 Europe/Berlin] SessionController::validateSession()
+[14-Jun-2021 20:59:11 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[14-Jun-2021 20:59:11 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: admin
+[14-Jun-2021 20:59:11 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/estadosdelexamen, url => estadosdelexamen
+[14-Jun-2021 20:59:11 Europe/Berlin] sessionController::isPublic(): currentURL => estadosdelexamen
+[14-Jun-2021 20:59:11 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/estadosdelexamen, url => estadosdelexamen
+[14-Jun-2021 20:59:11 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 143
+[14-Jun-2021 20:59:11 Europe/Berlin] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[14-Jun-2021 20:59:11 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[14-Jun-2021 20:59:11 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[14-Jun-2021 20:59:11 Europe/Berlin] Estadosdelexamen::costruct-inicio de estado del examen
+[14-Jun-2021 20:59:11 Europe/Berlin] Estadosdelexamen::render-inicio de login
+[14-Jun-2021 20:59:14 Europe/Berlin] inicio de la apliccion web
+[14-Jun-2021 20:59:14 Europe/Berlin] SessionController::validateSession()
+[14-Jun-2021 20:59:14 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[14-Jun-2021 20:59:14 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: admin
+[14-Jun-2021 20:59:14 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/logout, url => logout
+[14-Jun-2021 20:59:14 Europe/Berlin] sessionController::isPublic(): currentURL => logout
+[14-Jun-2021 20:59:14 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/logout, url => logout
+[14-Jun-2021 20:59:14 Europe/Berlin] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[14-Jun-2021 20:59:14 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[14-Jun-2021 20:59:14 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[14-Jun-2021 20:59:14 Europe/Berlin] inicio de la apliccion web
+[14-Jun-2021 20:59:14 Europe/Berlin] SessionController::validateSession()
+[14-Jun-2021 20:59:14 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//, url => 
+[14-Jun-2021 20:59:14 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[14-Jun-2021 20:59:14 Europe/Berlin] SessionController::validateSession() public page
+[14-Jun-2021 20:59:14 Europe/Berlin] login::costruct-inicio de login
+[14-Jun-2021 20:59:16 Europe/Berlin] inicio de la apliccion web
+[14-Jun-2021 20:59:16 Europe/Berlin] SessionController::validateSession()
+[14-Jun-2021 20:59:16 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/estadosdelexamen, url => estadosdelexamen
+[14-Jun-2021 20:59:16 Europe/Berlin] sessionController::isPublic(): currentURL => estadosdelexamen
+[14-Jun-2021 20:59:16 Europe/Berlin] SessionController::validateSession() redirect al login
+[14-Jun-2021 20:59:16 Europe/Berlin] Estadosdelexamen::costruct-inicio de estado del examen
+[14-Jun-2021 20:59:16 Europe/Berlin] Estadosdelexamen::render-inicio de login
+[14-Jun-2021 20:59:16 Europe/Berlin] inicio de la apliccion web
+[14-Jun-2021 20:59:16 Europe/Berlin] SessionController::validateSession()
+[14-Jun-2021 20:59:16 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[14-Jun-2021 20:59:16 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[14-Jun-2021 20:59:16 Europe/Berlin] SessionController::validateSession() public page
+[14-Jun-2021 20:59:16 Europe/Berlin] login::costruct-inicio de login
+[14-Jun-2021 20:59:21 Europe/Berlin] inicio de la apliccion web
+[14-Jun-2021 20:59:21 Europe/Berlin] SessionController::validateSession()
+[14-Jun-2021 20:59:21 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/login/atuentificarse, url => login
+[14-Jun-2021 20:59:21 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[14-Jun-2021 20:59:21 Europe/Berlin] SessionController::validateSession() redirect al login
+[14-Jun-2021 20:59:21 Europe/Berlin] login::costruct-inicio de login
+[14-Jun-2021 20:59:21 Europe/Berlin] ExistPOST: Existen parámetros
+[14-Jun-2021 20:59:21 Europe/Berlin] login:: inicio
+[14-Jun-2021 20:59:21 Europe/Berlin] login: user id 10
+[14-Jun-2021 20:59:21 Europe/Berlin] login::atuentificarse() pasaste
+[14-Jun-2021 20:59:21 Europe/Berlin] sessionController::initialize(): user: vermrgo
+[14-Jun-2021 20:59:21 Europe/Berlin] sessionController::authorizeAccess(): role: admin
+[14-Jun-2021 20:59:21 Europe/Berlin] inicio de la apliccion web
+[14-Jun-2021 20:59:21 Europe/Berlin] SessionController::validateSession()
+[14-Jun-2021 20:59:21 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[14-Jun-2021 20:59:21 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: admin
+[14-Jun-2021 20:59:21 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//admin, url => 
+[14-Jun-2021 20:59:21 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[14-Jun-2021 20:59:21 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[14-Jun-2021 20:59:21 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[14-Jun-2021 20:59:21 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[14-Jun-2021 20:59:21 Europe/Berlin] admin::costruct-inicio de login
+[14-Jun-2021 20:59:21 Europe/Berlin] alumnos::render-inicio de login
+[14-Jun-2021 20:59:22 Europe/Berlin] inicio de la apliccion web
+[14-Jun-2021 20:59:22 Europe/Berlin] SessionController::validateSession()
+[14-Jun-2021 20:59:22 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[14-Jun-2021 20:59:22 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: admin
+[14-Jun-2021 20:59:22 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/estadosdelexamen, url => estadosdelexamen
+[14-Jun-2021 20:59:22 Europe/Berlin] sessionController::isPublic(): currentURL => estadosdelexamen
+[14-Jun-2021 20:59:22 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/estadosdelexamen, url => estadosdelexamen
+[14-Jun-2021 20:59:22 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 143
+[14-Jun-2021 20:59:22 Europe/Berlin] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[14-Jun-2021 20:59:22 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[14-Jun-2021 20:59:22 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[14-Jun-2021 20:59:22 Europe/Berlin] Estadosdelexamen::costruct-inicio de estado del examen
+[14-Jun-2021 20:59:22 Europe/Berlin] Estadosdelexamen::render-inicio de login
+[14-Jun-2021 20:59:29 Europe/Berlin] inicio de la apliccion web
+[14-Jun-2021 20:59:29 Europe/Berlin] SessionController::validateSession()
+[14-Jun-2021 20:59:29 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[14-Jun-2021 20:59:29 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: admin
+[14-Jun-2021 20:59:29 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/Estadosdelexamen/generarFoliosTodos, url => Estadosdelexamen
+[14-Jun-2021 20:59:29 Europe/Berlin] sessionController::isPublic(): currentURL => Estadosdelexamen
+[14-Jun-2021 20:59:29 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/Estadosdelexamen/generarFoliosTodos, url => Estadosdelexamen
+[14-Jun-2021 20:59:29 Europe/Berlin] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[14-Jun-2021 20:59:29 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[14-Jun-2021 20:59:29 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[14-Jun-2021 20:59:29 Europe/Berlin] Estadosdelexamen::costruct-inicio de estado del examen
+[14-Jun-2021 21:19:23 Europe/Berlin] inicio de la apliccion web
+[14-Jun-2021 21:19:23 Europe/Berlin] SessionController::validateSession()
+[14-Jun-2021 21:19:23 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[14-Jun-2021 21:19:23 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: admin
+[14-Jun-2021 21:19:23 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/Estadosdelexamen/generarFoliosTodos, url => Estadosdelexamen
+[14-Jun-2021 21:19:23 Europe/Berlin] sessionController::isPublic(): currentURL => Estadosdelexamen
+[14-Jun-2021 21:19:23 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/Estadosdelexamen/generarFoliosTodos, url => Estadosdelexamen
+[14-Jun-2021 21:19:23 Europe/Berlin] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[14-Jun-2021 21:19:23 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[14-Jun-2021 21:19:23 Europe/Berlin] PHP Warning:  Undefined array key "rol" in C:\xampp\htdocs\MVC_CTH\clases\sesionController.php on line 129
+[14-Jun-2021 21:19:23 Europe/Berlin] Estadosdelexamen::costruct-inicio de estado del examen
