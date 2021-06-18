@@ -1,5 +1,5 @@
 <?php
-
+//mensajes de error posibles
 class SuccessMessages{
 
          const SUCCES_SIGNUP_NEWUSER="100";

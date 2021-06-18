@@ -1,4 +1,5 @@
  <?php
+ //controlador para el inicio de sescion
     class Login extends SesionController
     {
         function __construct()
@@ -6,18 +7,18 @@
             parent::__construct();
             error_log('login::costruct-inicio de login');
         }
-
+            // carga lavista principal
         function render()
         {
-            
             $this->view->render('login/index');
         }
-
+        //verificar si exite el usuario
         function atuentificarse(){
+            //si exite el post
             if ($this->existPOST(['correo', 'contraseña'])) {
                 $userCorreo = $this->getPost('correo');
                 $contraseña = $this->getPost('contraseña');
-
+                //verificacion si estan vacios los campos
                 if ($userCorreo == '' || empty($userCorreo) || $contraseña == '' || empty($contraseña)) {
                     $this->redirect('login', ['error' => ErrorMessages::ERROR_LOGIN_nuevoUsuario_Autentificarse_CAMPOSVACIOS]);
                 }

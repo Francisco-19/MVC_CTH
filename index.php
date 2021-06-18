@@ -26,7 +26,7 @@
     require_once 'clases/erroresmessages.php';
 
     require_once 'config/config.php';
-
+    //el archivo config/acces.json se uriliza para delimitar el acceso que tendra cada rol aque controlador
 
     require_once 'models/userModel.php';
     require_once 'models/PDOservicios.php';
@@ -34,4 +34,6 @@
 
     
     $app =new App();
+
+    
 ?>

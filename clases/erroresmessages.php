@@ -2,7 +2,7 @@
 //mensajes de error posibles
 class ErrorMessages{
     //El nombre de la cartegoria ya no existe
-    
+    //si el error es invocado el codigo asignado en un caso "000" aparecera en el URL
     const ERROR_SIGNUP_nuevoUsuario ="000";
     const ERROR_SIGNUP_nuevoUsuario_CAMPOSVACIOS="001";
     const ERROR_SIGNUP_nuevoUsuario_EXISTENTE ="0002";
@@ -16,7 +16,7 @@ class ErrorMessages{
     public function __construct(){
         
         $this-> errorsList=[
-      
+            //significado del codigo
         ErrorMessages::ERROR_SIGNUP_nuevoUsuario=>"Hubo un error al interntar prosesar la solicitud",
         ErrorMessages::ERROR_SIGNUP_nuevoUsuario_CAMPOSVACIOS=>"llenar todos los campos todos los campos porfavor ",
         ErrorMessages::ERROR_SIGNUP_nuevoUsuario_EXISTENTE=>"EsL corro ya existe fabor de ingresar ortro",

@@ -1,11 +1,12 @@
 <?php
 require_once 'models/generarExame.php';
+//distintas consultas pra el fincionamiento
 class PDOservicios extends Model{
 
     function __construct(){
         parent::__construct();
     }
-
+    //generar listador de alumnos
     public function generarLista(){
         $listadoDeAlumnos =[];
         try{
@@ -20,8 +21,6 @@ class PDOservicios extends Model{
                array_push($listadoDeAlumnos,$listado);
                 
            }
-            
-        
                return $listadoDeAlumnos;
 
         }catch(PDOException $e){
@@ -30,7 +29,7 @@ class PDOservicios extends Model{
        }
        
        private $listaDeFolioActivo=[];
-
+       //generar listado de modulos existentes en la base de datos
        public function modulos(){
        $listadoDeModulos=[];
         try{
@@ -47,6 +46,7 @@ class PDOservicios extends Model{
             error_log('modulos::generarLista->PDOException'.$e);
         }
     }
+    //generar las las preguntas aleatorias
     public function PreguntaAleatoria($Nmodulos){
         try{
              $listPAleat=[];
@@ -60,12 +60,8 @@ class PDOservicios extends Model{
                 
                 array_push($listPAleat,$preguntaA); //var_dump($listPAleat); 
                 }
-
                 }
-                
-                return $listPAleat;
-                
-                        
+                return $listPAleat;       
             }
 
         }catch(PDOException $e){
@@ -73,6 +69,7 @@ class PDOservicios extends Model{
 
         }
     }
+    //verificar tanto la tabla usuarios y la tabla examen la relacion que ahi y si aparece un camop nulo o
     public function verificacarFlolioExist(){                    
         try{
            $sql = $this->prepare("SELECT * FROM usuarios E LEFT JOIN examen U ON E.idusuario=U.idusuario WHERE rol='user'");  
@@ -84,7 +81,8 @@ class PDOservicios extends Model{
            error_log('listadoDeAlumnos::verificacarFlolioExist->PDOException'.$e);
         }
 
-    }             
+    }
+    //genera los folios para los examenes de los alumnos
     public function GenerarFolio($idusuruios,$status){
         try{
                 $query = $this->prepare("INSERT INTO `examen`(`idusuario`, `status`) 
@@ -97,6 +95,7 @@ class PDOservicios extends Model{
             return false;
         }
     }
+    //busca el id por medio del correo para poder genera el folio
     function buscarPorUsuarioCorreosVarios($correo){                    
         try{
             $coreosDetectados=[];
@@ -113,7 +112,7 @@ class PDOservicios extends Model{
             error_log('modulos::buscarPorUsuarioCorreo->PDOException'.$e);
         }
     }
-
+    //genera un listado de los folios que estan activo para verificacion
     public function listadoDeFolioActivo(){
         try{
             $sql=$this->query("SELECT Folio FROM examen WHERE status='activo'");
@@ -124,6 +123,7 @@ class PDOservicios extends Model{
             return false;
         }
     }
+    //genera la hojas de respuestas para el alumno
     public function generarHojaDeRespuestasAlum($folio, $preguntaAletoriaH){
         try{
             $sqlx=$this->prepare("INSERT INTO respuestas_del_alumno( Folio, idpregunta, respuesta)

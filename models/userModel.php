@@ -1,5 +1,6 @@
 <?php
 require_once 'models/userModel.php';
+//modelo para el manejo del usuario
 class UserModel extends Model implements IModel{
 
     private $idusuario;

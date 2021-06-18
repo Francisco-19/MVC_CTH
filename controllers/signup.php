@@ -2,7 +2,7 @@
 /**implementar el  controladorm para porder registrar a los usuarios*/
 
 require_once 'models/userModel.php';
-
+//registrar un nuevo usuario(alumno)
 class Signup extends sesionController{ 
 
 

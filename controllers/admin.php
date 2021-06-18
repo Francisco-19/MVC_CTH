@@ -1,5 +1,6 @@
 <?php
     class Admin extends SesionController
+    //controlador para la vista de admin principal
     {
         function __construct()
         {

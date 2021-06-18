@@ -1,4 +1,5 @@
 <?php
+//controlador para la vista principal para los alumnos(usuario)
     class Alumnos extends SesionController
     {
         function __construct()

@@ -1,6 +1,6 @@
 <?php
 require_once 'models/generarExame.php';
-
+//modelo pora el manejor de los alumnos por parte del administrador
 class listadoDeAlumnos extends Model{
 
     //tabla usuarios

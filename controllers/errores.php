@@ -1,5 +1,5 @@
 <?php
-
+//vista de la pagina de 404
 class Errores extends controller{
 
     function __construct(){

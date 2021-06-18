@@ -1,14 +1,14 @@
 <?php
 require_once 'models/generarExame.php';
 require_once 'models/PDOservicios.php';
-
+//controlador administrador para ver el estado de los examenes activos
 class Estadosdelexamen extends SesionController
 {
-
   function __construct()
   {
 
     parent::__construct();
+    //objetos correspondiente a los modelos para recivir la informacion de las consultas
     $this->mExamen = new listadoDeAlumnos();
     $this->foliosActivos =new listadoDeAlumnos();
     $this->PuebaExamen = new listadoDeAlumnos();
@@ -19,46 +19,48 @@ class Estadosdelexamen extends SesionController
   public   $modulos = [];
   function render()
   {
-
+    //renderificar la vista principal
     error_log('Estadosdelexamen::render-inicio de login');
-
-
     $this->listadoDeAlumnos();
   }
+  //funcion cargar la tabla de alumnos
   function listadoDeAlumnos()
   {
-
-
+    //carga la vista y en los corchetes y envia la informacion
     $this->view->render('ListadoDelExamenEstado/listado', [
       $a = 'a' => $this->mExamen = $this->objPDO->generarLista()
     ]);
     //  var_dump($this->mExamen);
   }
+  //obtener los modulos existentes en la base de datos
   function getModulos()
   {
+    /*se utiliza un arreglo para guardar los modulos y se crea una bariable con el objero en este caso
+    (mExamen) y se realiza la consulta */
     $modulos = [];
     $listM = $this->mExamen = $this->objPDO->modulos();
     foreach ($listM as $a) :
       array_push($modulos, $a->getModulo());
-
       reset($listM);
     endforeach;
     var_dump($modulos);
     return $modulos;
   }
+  //creacion de preguntas aleatorias
   function preguntasAleatorias()
   {
+     /*se utiliza un arreglo para guardar los modulos y se crea una bariable con el objero en este caso
+    (mExamen) y se realiza la consulta */
     $modulos = [];
     $listM = $this->mExamen = $this->objPDO->modulos();
     foreach ($listM as $a) :
       array_push($modulos, $a->getModulo());
     endforeach;
-
+    //al obrener los modulos se crean las preguntas aleatorias
     $preguntasAX = [];
     $preguntas = $this->mExamen = $this->objPDO->PreguntaAleatoria($modulos);
     foreach ($preguntas as $px) :
       array_push($preguntasAX, $px->getidPregunta());
-
     endforeach;
     var_dump($preguntasAX);
   }
@@ -95,7 +97,6 @@ class Estadosdelexamen extends SesionController
     foreach ($X as $pfs) :
       array_push($IDdetectado, $pfs->getidusuario()); //agrega los correos al array ya creado=$IDdetectado=[]
     endforeach;
-
     //paso 3********************************************************************************************************************************
     $modulos = [];
     $listM = $this->mExamen = $this->objPDO->modulos();
@@ -106,11 +107,9 @@ class Estadosdelexamen extends SesionController
     //paso 4************************************************************************************************************************************************
     if ($IDdetectado != null) {
       foreach ($IDdetectado as $s) :
-     
           $this->objPDO->GenerarFolio($s, "activo");
       endforeach;
     } else {
-  
       echo "Ya estan activos";
     }
 
@@ -121,11 +120,8 @@ class Estadosdelexamen extends SesionController
 
 
 
-
-
-
-
-
+    /**************** al generar los folios y creando la hoja de respuestas del alumnos no tiene manera
+     * de detener la generacion de respuestas de examen **************************************/
     $arrayFloliosActivos=[];
     $listFoliosActivos = $this->foliosActivos=$this->objPDO-> listadoDeFolioActivo();
     foreach($listFoliosActivos as $valor):
@@ -154,10 +150,6 @@ class Estadosdelexamen extends SesionController
     
     // var_dump( $arrayFloliosActivos);
    //  $modulos = [];
-
-
-
-
    $modulos = [];
     $listM = $this->mExamen = $this->objPDO->modulos();
     foreach ($listM as $a) :

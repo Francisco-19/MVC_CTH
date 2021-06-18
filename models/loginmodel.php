@@ -1,5 +1,5 @@
 <?php
-
+//modelo para el inicio de sesión pra verificar si el usuario es el correcto
 class LoginModel extends Model{
 
     function __construct(){
