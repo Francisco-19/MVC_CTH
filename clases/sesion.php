@@ -1,5 +1,5 @@
 <?php
-//se crea y bacia toda la informacion del usuario iniciado
+//se crea y vacia toda la informacion del usuario iniciado
 class Session{
     private $sessionName = 'user';
 

@@ -1,12 +1,12 @@
 <?php
 require_once 'models/generarExame.php';
-//distintas consultas pra el fincionamiento
+//distintas consultas pra el funcionamiento
 class PDOservicios extends Model{
 
     function __construct(){
         parent::__construct();
     }
-    //generar listador de alumnos
+    //generar listado de alumnos
     public function generarLista(){
         $listadoDeAlumnos =[];
         try{
@@ -69,7 +69,7 @@ class PDOservicios extends Model{
 
         }
     }
-    //verificar tanto la tabla usuarios y la tabla examen la relacion que ahi y si aparece un camop nulo o
+    //verificar tanto la tabla usuarios y la tabla examen la relacion que hay y si aparece un campo nulo o no
     public function verificacarFlolioExist(){                    
         try{
            $sql = $this->prepare("SELECT * FROM usuarios E LEFT JOIN examen U ON E.idusuario=U.idusuario WHERE rol='user'");  

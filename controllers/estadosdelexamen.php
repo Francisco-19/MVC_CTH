@@ -73,11 +73,11 @@ class Estadosdelexamen extends SesionController
       paso 4 crear los folios del pdo servicios->GenerarFolioDeExamenTodos(idusuario,status,modulo) *post = folio por modulo*
       */
     //paso 1************************************************************************************************************************************    
-    /*Este recorrido sirvepara recorrer las2 tablas ala ves y si por casualidad hay un usuari
-      que no apareca en la otra tabla ejemp 
+    /*Este recorrido sirve para recorrer las 2 tablas al mismo tiempo y si por casualidad hay un usuario
+      que no apareca en la otra tabla ejemplo
       if(folio=== null and id usuario == null)
-       genera los folios segugun el modulos peroPEROpero como es una consulta por dos tablas
-       se ara una busqueda de manera que se extraera el correo para su posterior uso
+       genera los folios segugun el modulos pero como es una consulta por dos tablas
+       se hara una busqueda de manera que se extraera el correo para su posterior uso
        */
     $recorrido = $this->mExamen = $this->objPDO->verificacarFlolioExist();
     $CorreoDetectado = []; //se guardaran los correos detectados en este areglo

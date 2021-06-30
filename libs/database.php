@@ -1,5 +1,5 @@
 <?php
-//clase para realizar la coneccion de la base de datos
+//clase para realizar la conexion de la base de datos
 class Database{
     private $host;
     private $db;

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CTH Admin</title>
+    <title>CTH Preguntas</title>
     <link rel="stylesheet" href=".\css\quizz.css">
     <link rel="stylesheet" href=".\css\menu.css">
         <link rel="stylesheet" href=".\bootstrap\css\bootstrap.min.css">
@@ -13,7 +13,7 @@
 
 <body background=".\imgen\Hoja_CTH_PLANTILLA_P.jpg">
 
- <form action="<?php echo constant('URL'); ?>/admin" method="POST">
+ <form action="<?php echo constant('URL'); ?>/crearpregunta" method="POST">
     <header>
         <input type="checkbox" id="btn-menu">
         
@@ -21,7 +21,7 @@
             </label>
             <nav class="menu">
             <ul>
-            <li><a href="<?php echo constant('URL'); ?>/admin">Inicio</a></li>
+               <li><a href="<?php echo constant('URL'); ?>/admin">Inicio</a></li>
                 <li><a href="<?php echo constant('URL'); ?>/crearadmin">Crear Admin</a></li>
                 <li><a href="<?php echo constant('URL'); ?>/crearpregunta">Crear Preguntas </a></li>
                 <li><a href="">Resultados Examen</a></li>
@@ -64,10 +64,22 @@
 
 
     <div class="home-box custom-box">
-        <h3>Bienvenid@! </h3> 
-        <p>Administrador </p>
-        <p>Este espacio esta diseñado para que puedas tener el control absoluto.</p>
-        <p>Empieza a navegar en las pestañas para que conozcas sus usos.</p>
+    <h2>Ingresar preguntas</h2>
+            
+            <label for="nombre">Ingrese la pregunta: </label>
+            <input type="text" placeholder="Pregunta" name="pregunta" id="pregunta">
+        
+            <label for="correo">Ingrese la respuesta correcta: </label>
+            <input type="text" placeholder="Respuesta CORRECTA" name="RBuena" id="RBuena">
+       
+            <label for="contraseña">Ingrese una respuesta incorrecta:</label>
+            <input type="text" placeholder="Respuesta INCORRECTA" name="RMala1" id="RMala1">
+
+            <label for="contraseña">Ingrese otra respuesta incorrecta:</label>
+            <input type="text" placeholder="Respuesta INCORRECTA" name="RMala2" id="RMala2">
+        <p>
+            <button type="submit" value="Guardarp"> Guardar
+    </button>
     </div>
 
     <?PHP $this->showMessages();?>

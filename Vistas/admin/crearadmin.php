@@ -7,13 +7,13 @@
     <title>CTH Admin</title>
     <link rel="stylesheet" href=".\css\quizz.css">
     <link rel="stylesheet" href=".\css\menu.css">
-        <link rel="stylesheet" href=".\bootstrap\css\bootstrap.min.css">
+    <link rel="stylesheet" href=".\bootstrap\css\bootstrap.min.css">
     <link rel="icon" type="image/jpg" href=".\imgen\Logo_CTH_2021_PNG.png">
 </head>
 
 <body background=".\imgen\Hoja_CTH_PLANTILLA_P.jpg">
 
- <form action="<?php echo constant('URL'); ?>/admin" method="POST">
+ <form action="<?php echo constant('URL'); ?>/crearadmin" method="POST">
     <header>
         <input type="checkbox" id="btn-menu">
         
@@ -64,10 +64,19 @@
 
 
     <div class="home-box custom-box">
-        <h3>Bienvenid@! </h3> 
-        <p>Administrador </p>
-        <p>Este espacio esta diseñado para que puedas tener el control absoluto.</p>
-        <p>Empieza a navegar en las pestañas para que conozcas sus usos.</p>
+    <h2>Informacion del Maestro</h2>
+            
+            <label for="nombre">Ingrese su nombre: </label>
+            <input type="text" placeholder="Nombre y apellido" name="nombre" id="nombre">
+        
+            <label for="correo">Su correo: </label>
+            <input type="text" placeholder="Correo" name="correo" id="correo">
+       
+            <label for="contraseña">Cree su contraseña</label>
+            <input type="text" placeholder="Contraseña" name="contraseña" id="contraseña">
+        <p>
+            <button type="submit" value="Iniciar registro"> Enviar
+    </button>
     </div>
 
     <?PHP $this->showMessages();?>

@@ -7,7 +7,7 @@ class LoginModel extends Model{
     }
 
     public function login($userCorreo,$contraseña) {
-        //isertar datos en Base de datos para
+        //insertar datos en Base de datos para
         error_log('login:: inicio');
         try{
             $sql = "SELECT * FROM usuarios WHERE userCorreo	 = :userCorreo	AND  contraseña = :contrasena";

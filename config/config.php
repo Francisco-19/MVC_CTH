@@ -1,5 +1,5 @@
 <?php
-//valiables estaticas consigo el url definido entre otros prametros
+//valiables estaticas consigo el url definido entre otros parametros
 //url por default
 define('URL','http://localhost:80/MVC_CTH/');
 

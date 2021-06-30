@@ -11,7 +11,7 @@ class SuccessMessages{
             
             $this-> successList=[
               
-                SuccessMessages::SUCCES_SIGNUP_NEWUSER=>'El usuario se a registrado correctamente fabor de revisar su correo'
+                SuccessMessages::SUCCES_SIGNUP_NEWUSER=>'El usuario se a registrado correctamente, revise su correo.'
 
             ];
     
