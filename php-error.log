@@ -4180,3 +4180,566 @@ Stack trace:
 [01-Jul-2021 01:12:14 Europe/Berlin] SessionController::validateSession() public page
 [01-Jul-2021 01:12:14 Europe/Berlin] alumnos::costruct-inicio de login
 [01-Jul-2021 01:12:14 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 02:58:12 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 02:58:12 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 02:58:12 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[01-Jul-2021 02:58:12 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 02:58:12 Europe/Berlin] SessionController::validateSession() public page
+[01-Jul-2021 02:58:12 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 02:58:18 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 02:58:18 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 02:58:18 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[01-Jul-2021 02:58:18 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 02:58:18 Europe/Berlin] SessionController::validateSession() public page
+[01-Jul-2021 02:58:18 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 02:58:33 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 02:58:33 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 02:58:33 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[01-Jul-2021 02:58:33 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 02:58:33 Europe/Berlin] SessionController::validateSession() public page
+[01-Jul-2021 02:58:33 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 02:58:35 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 02:58:35 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 02:58:35 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[01-Jul-2021 02:58:35 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 02:58:35 Europe/Berlin] SessionController::validateSession() public page
+[01-Jul-2021 02:58:35 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 02:58:36 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 02:58:36 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 02:58:36 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[01-Jul-2021 02:58:36 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 02:58:36 Europe/Berlin] SessionController::validateSession() public page
+[01-Jul-2021 02:58:36 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 02:58:38 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 02:58:38 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 02:58:38 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[01-Jul-2021 02:58:38 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 02:58:38 Europe/Berlin] SessionController::validateSession() public page
+[01-Jul-2021 02:58:38 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 02:58:49 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 02:58:49 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 02:58:49 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[01-Jul-2021 02:58:49 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[01-Jul-2021 02:58:50 Europe/Berlin] SessionController::validateSession() public page
+[01-Jul-2021 02:58:53 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 02:58:53 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 02:58:53 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[01-Jul-2021 02:58:53 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 02:58:53 Europe/Berlin] SessionController::validateSession() public page
+[01-Jul-2021 02:58:53 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 02:58:58 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 02:58:58 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 02:58:58 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[01-Jul-2021 02:58:58 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[01-Jul-2021 02:58:58 Europe/Berlin] SessionController::validateSession() public page
+[01-Jul-2021 02:59:01 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 02:59:01 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 02:59:01 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[01-Jul-2021 02:59:01 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 02:59:01 Europe/Berlin] SessionController::validateSession() public page
+[01-Jul-2021 02:59:01 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 02:59:02 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 02:59:02 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 02:59:02 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/signup, url => signup
+[01-Jul-2021 02:59:02 Europe/Berlin] sessionController::isPublic(): currentURL => signup
+[01-Jul-2021 02:59:02 Europe/Berlin] SessionController::validateSession() public page
+[01-Jul-2021 02:59:09 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 02:59:09 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 02:59:09 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[01-Jul-2021 02:59:09 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 02:59:09 Europe/Berlin] SessionController::validateSession() public page
+[01-Jul-2021 02:59:09 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 02:59:22 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 02:59:22 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 02:59:22 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/login/atuentificarse, url => login
+[01-Jul-2021 02:59:22 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[01-Jul-2021 02:59:22 Europe/Berlin] SessionController::validateSession() redirect al login
+[01-Jul-2021 02:59:22 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 02:59:22 Europe/Berlin] ExistPOST: Existen parámetros
+[01-Jul-2021 02:59:22 Europe/Berlin] login:: inicio
+[01-Jul-2021 02:59:22 Europe/Berlin] login::atuentificarse() el correo o la contraseña son incorectos
+[01-Jul-2021 02:59:22 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 02:59:22 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 02:59:22 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//?error=004, url => 
+[01-Jul-2021 02:59:22 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 02:59:22 Europe/Berlin] SessionController::validateSession() public page
+[01-Jul-2021 02:59:22 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 02:59:22 Europe/Berlin] View::handleError() existsKey =>Correo y/o contraseña son incorectos, intente de nuevo.
+[01-Jul-2021 02:59:51 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 02:59:51 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 02:59:51 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/login/atuentificarse, url => login
+[01-Jul-2021 02:59:51 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[01-Jul-2021 02:59:51 Europe/Berlin] SessionController::validateSession() redirect al login
+[01-Jul-2021 02:59:51 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 02:59:51 Europe/Berlin] ExistPOST: Existen parámetros
+[01-Jul-2021 02:59:51 Europe/Berlin] login:: inicio
+[01-Jul-2021 02:59:51 Europe/Berlin] login: user id 10
+[01-Jul-2021 02:59:51 Europe/Berlin] login::atuentificarse() pasaste
+[01-Jul-2021 02:59:51 Europe/Berlin] sessionController::initialize(): user: vermrgo
+[01-Jul-2021 02:59:51 Europe/Berlin] sessionController::authorizeAccess(): role: user
+[01-Jul-2021 02:59:51 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 02:59:51 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 02:59:51 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-Jul-2021 02:59:51 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: user
+[01-Jul-2021 02:59:51 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 02:59:51 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 02:59:51 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 02:59:51 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 02:59:51 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 02:59:57 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 02:59:57 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 02:59:57 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-Jul-2021 02:59:57 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: user
+[01-Jul-2021 02:59:57 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//?error=004, url => 
+[01-Jul-2021 02:59:57 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 02:59:57 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 02:59:57 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 02:59:57 Europe/Berlin] View::handleError() existsKey =>Correo y/o contraseña son incorectos, intente de nuevo.
+[01-Jul-2021 03:00:09 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 03:00:09 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 03:00:09 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-Jul-2021 03:00:09 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: user
+[01-Jul-2021 03:00:09 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/login/atuentificarse, url => login
+[01-Jul-2021 03:00:09 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[01-Jul-2021 03:00:09 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/login/atuentificarse, url => login
+[01-Jul-2021 03:00:09 Europe/Berlin] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[01-Jul-2021 03:00:09 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 03:00:09 Europe/Berlin] ExistPOST: Existen parámetros
+[01-Jul-2021 03:00:09 Europe/Berlin] login:: inicio
+[01-Jul-2021 03:00:09 Europe/Berlin] login: user id 9
+[01-Jul-2021 03:00:09 Europe/Berlin] login::atuentificarse() pasaste
+[01-Jul-2021 03:00:09 Europe/Berlin] sessionController::initialize(): user: a
+[01-Jul-2021 03:00:09 Europe/Berlin] sessionController::authorizeAccess(): role: user
+[01-Jul-2021 03:00:09 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 03:00:10 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 03:00:10 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 03:00:10 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 03:00:10 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 03:00:10 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 03:00:10 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 03:00:10 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 03:00:10 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 03:01:28 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 03:01:28 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 03:01:28 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 03:01:28 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 03:01:28 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 03:01:28 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 03:01:28 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 03:01:28 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 03:01:28 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 03:38:57 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 03:38:57 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 03:38:57 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 03:38:57 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 03:38:57 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 03:38:57 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 03:38:57 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 03:38:57 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 03:38:57 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 03:39:23 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 03:39:23 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 03:39:23 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 03:39:23 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 03:39:23 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 03:39:23 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 03:39:23 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 03:39:23 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 03:39:23 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 03:40:00 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 03:40:00 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 03:40:00 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 03:40:00 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 03:40:00 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 03:40:00 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 03:40:00 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 03:40:00 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 03:40:00 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 03:45:20 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 03:45:20 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 03:45:20 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 03:45:20 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 03:45:20 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 03:45:20 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 03:45:20 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 03:45:20 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 03:45:20 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 03:45:21 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 03:45:21 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 03:45:21 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 03:45:21 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 03:45:21 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 03:45:21 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 03:45:21 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 03:45:21 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 03:45:21 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 03:51:36 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 03:51:36 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 03:51:36 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 03:51:36 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 03:51:36 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 03:51:36 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 03:51:36 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 03:51:36 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 03:51:36 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 03:52:00 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 03:52:01 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 03:52:01 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 03:52:01 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 03:52:01 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 03:52:01 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 03:52:01 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 03:52:01 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 03:52:01 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 03:52:24 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 03:52:24 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 03:52:24 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 03:52:24 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 03:52:24 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 03:52:24 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 03:52:24 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 03:52:24 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 03:52:24 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 03:52:25 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 03:52:25 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 03:52:25 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 03:52:25 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 03:52:25 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 03:52:25 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 03:52:25 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 03:52:25 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 03:52:25 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 03:52:33 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 03:52:33 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 03:52:33 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 03:52:33 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 03:52:33 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 03:52:33 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 03:52:33 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 03:52:33 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 03:52:33 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 03:54:48 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 03:54:48 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 03:54:48 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 03:54:48 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 03:54:48 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 03:54:48 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 03:54:48 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 03:54:48 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 03:54:48 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 03:57:32 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 03:57:32 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 03:57:32 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 03:57:32 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 03:57:32 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 03:57:32 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 03:57:32 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 03:57:32 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 03:57:32 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 03:59:25 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 03:59:25 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 03:59:25 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 03:59:25 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 03:59:25 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 03:59:25 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 03:59:25 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 03:59:25 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 03:59:25 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 03:59:51 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 03:59:51 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 03:59:51 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 03:59:51 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 03:59:51 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 03:59:51 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 03:59:51 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 03:59:51 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 03:59:51 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:00:09 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:00:09 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:00:09 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 04:00:09 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 04:00:09 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:00:09 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:00:09 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:00:09 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:00:09 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:04:11 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:04:11 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:04:11 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 04:04:11 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 04:04:11 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:04:11 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:04:11 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:04:11 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:04:11 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:04:23 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:04:23 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:04:23 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 04:04:23 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 04:04:23 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:04:23 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:04:23 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:04:23 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:04:23 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:05:47 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:05:47 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:05:47 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 04:05:47 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 04:05:47 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:05:47 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:05:47 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:05:47 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:05:47 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:05:55 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:05:55 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:05:55 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 04:05:55 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 04:05:55 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:05:55 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:05:55 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:05:55 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:05:55 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:07:38 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:07:38 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:07:38 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 04:07:38 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 04:07:38 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:07:38 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:07:38 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:07:38 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:07:38 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:07:51 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:07:51 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:07:51 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 04:07:51 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 04:07:51 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:07:51 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:07:51 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:07:51 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:07:51 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:07:59 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:07:59 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:07:59 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 04:07:59 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 04:07:59 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:07:59 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:07:59 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:07:59 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:07:59 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:08:08 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:08:08 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:08:08 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 04:08:08 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 04:08:08 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:08:08 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:08:08 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:08:08 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:08:08 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:08:09 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:08:09 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:08:09 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 04:08:09 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 04:08:09 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:08:09 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:08:09 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:08:09 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:08:09 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:08:23 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:08:23 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:08:23 Europe/Berlin] sessionController::getUserSessionData(): a
+[01-Jul-2021 04:08:23 Europe/Berlin] sessionController::validateSession(): username:a - role: user
+[01-Jul-2021 04:08:23 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/logout, url => logout
+[01-Jul-2021 04:08:23 Europe/Berlin] sessionController::isPublic(): currentURL => logout
+[01-Jul-2021 04:08:23 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/logout, url => logout
+[01-Jul-2021 04:08:23 Europe/Berlin] SessionController::validateSession() => no autorizado, redirige al main de cada rol
+[01-Jul-2021 04:08:23 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:08:23 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:08:23 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//, url => 
+[01-Jul-2021 04:08:23 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:08:23 Europe/Berlin] SessionController::validateSession() public page
+[01-Jul-2021 04:08:23 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 04:08:34 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:08:34 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:08:34 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/login/atuentificarse, url => login
+[01-Jul-2021 04:08:34 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[01-Jul-2021 04:08:34 Europe/Berlin] SessionController::validateSession() redirect al login
+[01-Jul-2021 04:08:34 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 04:08:34 Europe/Berlin] ExistPOST: Existen parámetros
+[01-Jul-2021 04:08:34 Europe/Berlin] login:: inicio
+[01-Jul-2021 04:08:34 Europe/Berlin] login: user id 10
+[01-Jul-2021 04:08:34 Europe/Berlin] login::atuentificarse() pasaste
+[01-Jul-2021 04:08:34 Europe/Berlin] sessionController::initialize(): user: vermrgo
+[01-Jul-2021 04:08:34 Europe/Berlin] sessionController::authorizeAccess(): role: user
+[01-Jul-2021 04:08:34 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:08:34 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:08:34 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-Jul-2021 04:08:34 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: user
+[01-Jul-2021 04:08:34 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:08:34 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:08:34 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:08:34 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:08:34 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:09:13 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:09:13 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:09:13 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-Jul-2021 04:09:13 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: user
+[01-Jul-2021 04:09:13 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:09:13 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:09:13 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:09:13 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:09:13 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:09:24 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:09:24 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:09:24 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-Jul-2021 04:09:24 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: user
+[01-Jul-2021 04:09:24 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:09:24 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:09:24 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:09:24 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:09:24 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:09:41 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:09:41 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:09:41 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-Jul-2021 04:09:41 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: user
+[01-Jul-2021 04:09:41 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:09:41 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:09:41 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:09:41 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:09:41 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:11:23 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:11:23 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:11:23 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-Jul-2021 04:11:23 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: user
+[01-Jul-2021 04:11:23 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:11:23 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:11:23 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:11:23 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:11:23 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:11:24 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:11:24 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:11:24 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-Jul-2021 04:11:24 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: user
+[01-Jul-2021 04:11:24 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:11:24 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:11:24 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:11:24 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:11:24 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:11:24 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:11:24 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:11:24 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-Jul-2021 04:11:24 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: user
+[01-Jul-2021 04:11:24 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:11:24 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:11:24 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:11:24 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:11:24 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:11:25 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:11:25 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:11:25 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-Jul-2021 04:11:25 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: user
+[01-Jul-2021 04:11:25 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:11:25 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:11:25 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:11:25 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:11:25 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:11:25 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:11:25 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:11:25 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-Jul-2021 04:11:25 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: user
+[01-Jul-2021 04:11:25 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:11:25 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:11:25 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:11:25 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:11:25 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:11:25 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:11:25 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:11:25 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-Jul-2021 04:11:25 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: user
+[01-Jul-2021 04:11:25 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:11:25 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:11:25 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:11:25 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:11:25 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:11:25 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:11:25 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:11:25 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-Jul-2021 04:11:25 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: user
+[01-Jul-2021 04:11:25 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:11:25 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:11:25 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:11:25 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:11:25 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:11:26 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:11:26 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:11:26 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-Jul-2021 04:11:26 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: user
+[01-Jul-2021 04:11:26 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:11:26 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:11:26 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:11:26 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:11:26 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:12:27 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:12:27 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:12:27 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/, url => 
+[01-Jul-2021 04:12:27 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:12:27 Europe/Berlin] SessionController::validateSession() public page
+[01-Jul-2021 04:12:27 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 04:12:38 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:12:38 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:12:38 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/login/atuentificarse, url => login
+[01-Jul-2021 04:12:38 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[01-Jul-2021 04:12:38 Europe/Berlin] SessionController::validateSession() redirect al login
+[01-Jul-2021 04:12:38 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 04:12:38 Europe/Berlin] ExistPOST: Existen parámetros
+[01-Jul-2021 04:12:38 Europe/Berlin] login:: inicio
+[01-Jul-2021 04:12:38 Europe/Berlin] login::atuentificarse() el correo o la contraseña son incorectos
+[01-Jul-2021 04:12:38 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:12:38 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:12:38 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//?error=004, url => 
+[01-Jul-2021 04:12:38 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:12:38 Europe/Berlin] SessionController::validateSession() public page
+[01-Jul-2021 04:12:38 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 04:12:38 Europe/Berlin] View::handleError() existsKey =>Correo y/o contraseña son incorectos, intente de nuevo.
+[01-Jul-2021 04:12:48 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:12:48 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:12:48 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH/login/atuentificarse, url => login
+[01-Jul-2021 04:12:48 Europe/Berlin] sessionController::isPublic(): currentURL => login
+[01-Jul-2021 04:12:48 Europe/Berlin] SessionController::validateSession() redirect al login
+[01-Jul-2021 04:12:48 Europe/Berlin] login::costruct-inicio de login
+[01-Jul-2021 04:12:48 Europe/Berlin] ExistPOST: Existen parámetros
+[01-Jul-2021 04:12:48 Europe/Berlin] login:: inicio
+[01-Jul-2021 04:12:48 Europe/Berlin] login: user id 10
+[01-Jul-2021 04:12:49 Europe/Berlin] login::atuentificarse() pasaste
+[01-Jul-2021 04:12:49 Europe/Berlin] sessionController::initialize(): user: vermrgo
+[01-Jul-2021 04:12:49 Europe/Berlin] sessionController::authorizeAccess(): role: user
+[01-Jul-2021 04:12:49 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:12:49 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:12:49 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-Jul-2021 04:12:49 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: user
+[01-Jul-2021 04:12:49 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:12:49 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:12:49 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:12:49 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:12:49 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:50:54 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:50:54 Europe/Berlin] Errores::costruct-Errpres
+[01-Jul-2021 04:50:56 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:50:56 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:50:56 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-Jul-2021 04:50:56 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: user
+[01-Jul-2021 04:50:56 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:50:56 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:50:56 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:50:56 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:50:56 Europe/Berlin] alumnos::render-inicio de login
+[01-Jul-2021 04:50:57 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:50:57 Europe/Berlin] Errores::costruct-Errpres
+[01-Jul-2021 04:50:58 Europe/Berlin] inicio de la apliccion web
+[01-Jul-2021 04:50:58 Europe/Berlin] SessionController::validateSession()
+[01-Jul-2021 04:50:58 Europe/Berlin] sessionController::getUserSessionData(): vermrgo
+[01-Jul-2021 04:50:58 Europe/Berlin] sessionController::validateSession(): username:vermrgo - role: user
+[01-Jul-2021 04:50:58 Europe/Berlin] sessionController::getCurrentPage(): actualLink =>/MVC_CTH//alumnos, url => 
+[01-Jul-2021 04:50:58 Europe/Berlin] sessionController::isPublic(): currentURL => 
+[01-Jul-2021 04:50:58 Europe/Berlin] SessionController::validateSession() => sitio público, redirige al main de cada rol
+[01-Jul-2021 04:50:58 Europe/Berlin] alumnos::costruct-inicio de login
+[01-Jul-2021 04:50:58 Europe/Berlin] alumnos::render-inicio de login

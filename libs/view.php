@@ -1,5 +1,5 @@
 <?php
-
+//librerias para las vistas
 class View{
     
     function __construct(){

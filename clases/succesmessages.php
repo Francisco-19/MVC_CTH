@@ -1,5 +1,5 @@
 <?php
-//mensajes de error posibles
+//mensajes de los prosesos exitososs posibles
 class SuccessMessages{
 
          const SUCCES_SIGNUP_NEWUSER="100";
@@ -11,7 +11,7 @@ class SuccessMessages{
             
             $this-> successList=[
               
-                SuccessMessages::SUCCES_SIGNUP_NEWUSER=>'El usuario se a registrado correctamente, revise su correo.'
+                SuccessMessages::SUCCES_SIGNUP_NEWUSER=>'El usuario se a registrado correctamente fabor de revisar su correo'
 
             ];
     

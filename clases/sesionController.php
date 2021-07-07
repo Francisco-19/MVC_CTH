@@ -92,8 +92,10 @@ class SesionController extends Controller{
             }
         }
     }
+    //si existe una sesion
     function existsSession(){
         if(!$this->session->exists()) return false;
+        //obtiene la inforacion del usaruio
         if($this->session->getCurrentUser() == NULL) return false;
 
         $idusuario = $this->session->getCurrentUser();
@@ -102,6 +104,7 @@ class SesionController extends Controller{
 
         return false;
     }
+    //obtiene la iinformacion del usuario de la Sesion
     function getUserSessionData(){
         $idusuario = $this->session-> getCurrentUser();
         $this->user = new UserModel();
@@ -109,6 +112,7 @@ class SesionController extends Controller{
         error_log("sessionController::getUserSessionData(): " . $this->user->getUserCorreo());
         return $this->user;
     }
+    //si es pulico se dedica el URL
     private function isPublic(){
         $currentURL = $this->getCurrentPage();
         error_log("sessionController::isPublic(): currentURL => " . $currentURL);
@@ -120,14 +124,14 @@ class SesionController extends Controller{
         }
         return false;
     }
-    private function getCurrentPage(){
-        
+    //obtener la pagina actual
+    private function getCurrentPage(){        
         $actual_link = trim("$_SERVER[REQUEST_URI]");
         $url = explode('/', $actual_link);
         error_log("sessionController::getCurrentPage(): actualLink =>" . $actual_link . ", url => " . $url[2]);
         return $url[2];
     }
-
+    //redirigir el sitio predeterminado por función segun su controlador
     private function redirectDefaultSiteByRole($rol){
         $url = '';
         for($i = 0; $i < sizeof($this->sites); $i++){
@@ -140,10 +144,10 @@ class SesionController extends Controller{
         header(constant('URL').$url);
         
     }
+    //si es autoriza
     private function isAuthorized($rol){
         $currentURL = $this->getCurrentPage();
         $currentURL = preg_replace( "/\?.*/", "", $currentURL); //omitir get info
-       
         for($i = 0; $i < sizeof($this->sites); $i++){
             if($currentURL == $this->sites[$i]['site'] && $this->sites[$i]['rol'] === $rol){
                 return true;
@@ -151,11 +155,13 @@ class SesionController extends Controller{
         }
         return false;
     }
+    //inicializa
     public function initialize($user){
         error_log("sessionController::initialize(): user: " . $user->getUserCorreo());
         $this->session->setCurrentUser($user->getidusuario());
         $this->authorizeAccess($user->getrol());
     }
+    //delimita el rol y ase la con sa seccion usada si es administrador o usuario
     function authorizeAccess($rol){
         error_log("sessionController::authorizeAccess(): role: $rol");
         switch($rol){
@@ -169,6 +175,7 @@ class SesionController extends Controller{
         
         }
     }
+    //usado para serrar la seccion
     function logout() {
         $this->session->closeSession();
     }
