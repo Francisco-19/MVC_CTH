@@ -23,7 +23,7 @@
                     $this->redirect('login', ['error' => ErrorMessages::ERROR_LOGIN_nuevoUsuario_Autentificarse_CAMPOSVACIOS]);
                 }
                 $user = $this->model->login($userCorreo, $contraseña);
-                var_dump($user);
+                
                 if ($user != NULL) {
                     //INCIALIZE
                     error_log('login::atuentificarse() pasaste');

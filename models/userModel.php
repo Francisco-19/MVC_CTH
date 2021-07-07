@@ -41,7 +41,7 @@ class UserModel extends Model implements IModel{
                 'userCorreo'=>$this->userCorreo,
                 'contrasena'=>$this->contraseña
                 ]);
-                var_dump($query);
+           //     var_dump($query);
             return true;
         }catch(PDOException $e){
             error_log('USSERMODEL::save->PDOException'.$e);

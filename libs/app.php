@@ -8,7 +8,7 @@ class App{
     {
         $url = isset($_GET['url']) ? $_GET['url']: null;
         $url = rtrim($url, '/');
-        var_dump($url);
+       // var_dump($url);
         $url = explode('/', $url);
 
         // cuando se ingresa sin definir controlador

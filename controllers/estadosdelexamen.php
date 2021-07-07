@@ -43,7 +43,7 @@ class Estadosdelexamen extends SesionController
       array_push($modulos, $a->getModulo());
       reset($listM);
     endforeach;
-    var_dump($modulos);
+   /// var_dump($modulos);
     return $modulos;
   }
   //creacion de preguntas aleatorias
